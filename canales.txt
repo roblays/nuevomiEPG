@@ -133,7 +133,7 @@ M+ Comedia HD,M+.Comedia.es,https://docdog.top/logo/countries/spain/movistar/M_C
 M+ Drama HD,M+.Drama.es,https://docdog.top/logo/countries/spain/movistar/M_Drama.png
 M+ Indie HD,M+.Indie.es,https://docdog.top/logo/countries/spain/movistar/M_Indie.png
 M+ Cine Español,M+.Cine.Español.es,https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png
-Calle 13,Calle.13.es,https://docdog.top/logo/countries/spain/movistar/Calle_13.png
+Calle 13 HD,Calle.13.es,https://docdog.top/logo/countries/spain/movistar/Calle_13.png
 COSMO,COSMO.es,https://docdog.top/logo/countries/spain/movistar/COSMO.png
 SYFY,Syfy.es,https://docdog.top/logo/countries/spain/movistar/SYFY.png
 SKYSHOWTIME 1,SkyShowtime.1.es,https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png
