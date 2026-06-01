@@ -292,3 +292,5 @@ DE | Motorvision TV,MTRVSN,https://docdog.top/logo/countries/new/es/tivify/MOTOR
 DE | Rally TV,ES: RALLY TV FHD,https://docdog.top/logo/countries/spain/movistar/RallyTv.png
 DE | DAZN 1,DAZN.1.es,https://docdog.top/logo/countries/new/es/movistar/DAZN_1.png
 DE | DAZN 2,DAZN.2.es,https://docdog.top/logo/countries/new/es/movistar/DAZN_2.png
+Movistar Plus+ 2,ES: MOVISTAR PLUS+ 2 FHD,https://docdog.top/logo/countries/spain/movistar/Movistar_Plus_2.png
+Movistar Plus+ 2,ES: MOVISTAR PLUS+ 2 HD,https://docdog.top/logo/countries/spain/movistar/Movistar_Plus_2.png
