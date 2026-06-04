@@ -1187,12 +1187,12 @@ TRACE Sports Stars,XXX: PHub Stars 23 Riley Reid,https://docdog.top/logo/countri
 TRACE Sports Stars,XXX: PHub Stars 23 Sharon Lee,https://docdog.top/logo/countries/xxx/porn18.png
 TRACE Sports Stars,XXX: PHub Stars 23 Skyler Vox,https://docdog.top/logo/countries/xxx/porn18.png
 Telesur HD,XXX: HUSTLER HD,https://docdog.top/logo/countries/xxx/porn18.png
-M+ Documentales HD,ES: M+ DOCUMENTALES FHD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
-M+ Documentales HD,ES: M+ DOCUMENTALES HD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
-National Geographic HD,ES: NATIONAL GEOGRAPHIC FHD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
-National Geographic HD,ES: NATIONAL GEOGRAPHIC HD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
-Nat Geo Wild HD,ES: NAT GEO WILD FHD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
-Nat Geo Wild HD,ES: NAT GEO WILD HD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
+M+ Documentales,ES: M+ DOCUMENTALES FHD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
+M+ Documentales,ES: M+ DOCUMENTALES HD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
+National Geographic,ES: NATIONAL GEOGRAPHIC FHD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
+National Geographic,ES: NATIONAL GEOGRAPHIC HD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
+Nat Geo Wild,ES: NAT GEO WILD FHD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
+Nat Geo Wild,ES: NAT GEO WILD HD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
 Historia,ES: HISTORIA FHD,https://docdog.top/logo/countries/spain/movistar/Historia.png
 Historia,ES: HISTORIA HD,https://docdog.top/logo/countries/spain/movistar/Historia.png
 Discovery,ES: DISCOVERY FHD,https://docdog.top/logo/countries/spain/movistar/Discovery.png
