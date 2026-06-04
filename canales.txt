@@ -201,45 +201,12 @@ Canal FlixOlé 1,ES: CANAL FLIXOLE 1 HD,https://docdog.top/logo/countries/new/es
 Canal FlixOlé 1,ES: CANAL FLIXOLE 2 HD,https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png
 BBC Series,ES: BBC SERIES HD,https://docdog.top/logo/countries/new/es/BBC_SERIES.png
 M+ Cero,ES: M+ CERO FHD,https://docdog.top/logo/countries/new/es/M+_CERO.png
-M+ Documentales HD,ES: M+ DOCUMENTALES FHD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
-National Geographic HD,ES: NATIONAL GEOGRAPHIC FHD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
-Nat Geo Wild HD,ES: NAT GEO WILD FHD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
-Historia,ES: HISTORIA FHD,https://docdog.top/logo/countries/spain/movistar/Historia.png
-Discovery,ES: DISCOVERY FHD,https://docdog.top/logo/countries/spain/movistar/Discovery.png
-DMAX,ES: DMAX FHD,https://docdog.top/logo/countries/spain/movistar/DMAX.png
-Odisea,ES: ODISEA FHD,https://docdog.top/logo/countries/spain/movistar/Odisea.png
 Caza y Pesca HD,ES: CAZA Y PESCA FHD,https://docdog.top/logo/countries/spain/movistar/CAZHD.png
 AMC Break,ES: AMC BREAK FHD,https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png
 SELEKT,ES: SELEKT FHD,https://docdog.top/logo/countries/es/SELEKT.png
 Garage TV,ES: EL GARAGE TV FHD,https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png
-Cazavisión,ES: CAZAVISIÓN FHD,https://docdog.top/logo/countries/spain/movistar/cazavision.png
-Iberalia TV,ES: IBERALIA TV FHD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
-Iberalia caza,ES: IBERALIA 100% CAZA FHD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
-Iberalia pesca,ES: IBERALIA 100% PESCA FHD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
-BBC Food,ES: BBC FOOD FHD,https://docdog.top/logo/countries/new/es/BBC_FOOD.png
-BBC History,ES: BBC HISTORY FHD,https://docdog.top/logo/countries/new/es/BBC_HISTORY.png
-BBC Earth,ES: BBC EARTH FHD,https://docdog.top/logo/countries/new/es/BBC_EARTH.png
-BBC Lifestyle,ES: BBC LIFESTYLE FHD,https://docdog.top/logo/countries/new/es/BBC_LIFESTYLE.png
 M+ Cero,ES: M+ CERO HD,https://docdog.top/logo/countries/new/es/M+_CERO.png
-M+ Documentales HD,ES: M+ DOCUMENTALES HD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
-National Geographic HD,ES: NATIONAL GEOGRAPHIC HD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
-Nat Geo Wild HD,ES: NAT GEO WILD HD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
-Historia,ES: HISTORIA HD,https://docdog.top/logo/countries/spain/movistar/Historia.png
-Discovery,ES: DISCOVERY HD,https://docdog.top/logo/countries/spain/movistar/Discovery.png
-DMAX,ES: DMAX HD,https://docdog.top/logo/countries/spain/movistar/DMAX.png
-Odisea,ES: ODISEA HD,https://docdog.top/logo/countries/spain/movistar/Odisea.png
-Caza y Pesca HD,ES: CAZA Y PESCA HD,https://docdog.top/logo/countries/spain/movistar/CAZHD.png
-AMC Break,ES: AMC BREAK HD,https://docdog.top/logo/countries/new/es/AMC_BREAK.png
-SELEKT,ES: SELEKT HD,https://docdog.top/logo/countries/new/es/SELEKT.png
 Garage TV,ES: EL GARAGE TV HD,https://docdog.top/logo/countries/new/es/EL_GARAGE_TV.png
-Cazavisión,ES: CAZAVISIÓN HD,https://docdog.top/logo/countries/spain/movistar/cazavision.png
-Iberalia TV,ES: IBERALIA TV HD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
-Iberalia caza,ES: IBERALIA 100% CAZA HD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
-Iberalia pesca,ES: IBERALIA 100% PESCA HD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
-BBC Food,ES: BBC FOOD HD,https://docdog.top/logo/countries/new/es/BBC_FOOD.png
-BBC History,ES: BBC HISTORY HD,https://docdog.top/logo/countries/new/es/BBC_HISTORY.png
-BBC Earth,ES: BBC EARTH HD,https://docdog.top/logo/countries/new/es/BBC_EARTH.png
-BBC Lifestyle,ES: BBC LIFESTYLE HD,https://docdog.top/logo/countries/new/es/BBC_LIFESTYLE.png
 Al Jazeera English HD,ES: AL JAZEERA ENGLISH FHD,https://docdog.top/logo/countries/spain/movistar/Al_Jazeera_English.png
 France 24 (en Francais),ES: FRANCE24 (FR) FHD,https://docdog.top/logo/countries/spain/movistar/FRANCE24_FR.png
 1+1 International,ES: 1+1 INTERNACIONAL FHD,https://docdog.top/logo/countries/spain/movistar/1_1_Internacional.png
@@ -392,7 +359,6 @@ DARK,ES: DARK SD,https://docdog.top/logo/countries/new/es/avatel/DARK.png
 DBike,ES: DBIKE FHD,https://docdog.top/logo/countries/new/es/avatel/DBIKE.png
 DBike,ES: DBIKE HD,https://docdog.top/logo/countries/new/es/avatel/DBIKE.png
 DBike,ES: DBIKE SD,https://docdog.top/logo/countries/new/es/avatel/DBIKE.png
-Discovery,ES: DISCOVERY SD,https://docdog.top/logo/countries/new/es/avatel/DISCOVERY.png
 Disney Channel,ES: DISNEY CHANEL,https://docdog.top/logo/countries/new/es/avatel/DISNEY_CHANEL.png
 Divinity,ES: DIVINITY FHD,https://docdog.top/logo/countries/new/es/avatel/DIVINITY.png
 Divinity,ES: DIVINITY HD,https://docdog.top/logo/countries/new/es/avatel/DIVINITY.png
@@ -431,7 +397,6 @@ Global Telenovelas,ES: GLOBAL TELENOVELAS FHD,https://docdog.top/logo/countries/
 Global Telenovelas,ES: GLOBAL TELENOVELAS HD,https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TELENOVELAS.png
 Global Telenovelas,ES: GLOBAL TELENOVELAS SD,https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TELENOVELAS.png
 Global Tendencias,ES: GLOBAL TENDENCIAS,https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TENDENCIAS.png
-Historia,ES: HISTORIA SD,https://docdog.top/logo/countries/new/es/avatel/HISTORIA.png
 Warner TV HD,ES: HIT TV FHD,https://docdog.top/logo/countries/new/es/avatel/HIT_TV.png
 Warner TV HD,ES: HIT TV HD,https://docdog.top/logo/countries/new/es/avatel/HIT_TV.png
 Warner TV HD,ES: HIT TV SD,https://docdog.top/logo/countries/new/es/avatel/HIT_TV.png
@@ -441,15 +406,6 @@ Huelva TV,ES: HUELVA TV SD,https://docdog.top/logo/countries/new/es/avatel/HUELV
 Antena 3 HD,ES: IB 3 FHD,https://docdog.top/logo/countries/new/es/avatel/IB_3.png
 Antena 3 HD,ES: IB 3 HD,https://docdog.top/logo/countries/new/es/avatel/IB_3.png
 Antena 3 HD,ES: IB 3 SD,https://docdog.top/logo/countries/new/es/avatel/IB_3.png
-Iberalia caza,ES: IBERALIA CAZA FHD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png
-Iberalia caza,ES: IBERALIA CAZA HD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png
-Iberalia caza,ES: IBERALIA CAZA SD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png
-Iberalia TV,ES: IBERALIA FHD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA.png
-Iberalia TV,ES: IBERALIA HD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA.png
-Iberalia TV,ES: IBERALIA SD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA.png
-Iberalia pesca,ES: IBERALIA PESCA FHD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png
-Iberalia pesca,ES: IBERALIA PESCA HD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png
-Iberalia pesca,ES: IBERALIA PESCA SD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png
 La 2,ES: LA 2 FHD,https://docdog.top/logo/countries/new/es/avatel/LA_2.png
 La 2,ES: LA 2 HD,https://docdog.top/logo/countries/new/es/avatel/LA_2.png
 La 2,ES: LA 2 SD,https://docdog.top/logo/countries/new/es/avatel/LA_2.png
@@ -566,7 +522,6 @@ TV3CAT Catalunya,ES: TV3 CAT,https://docdog.top/logo/countries/new/es/avatel/TV3
 La 7 CyL,7 RM,https://docdog.top/logo/countries/new/es/zapi/7RM.png
 À Punt,A Punt HD,https://docdog.top/logo/countries/new/es/zapi/A_PUNT.png
 AMC HD,AMC,https://docdog.top/logo/countries/new/es/zapi/AMC.png
-AMC Break,AMC BREAK,https://docdog.top/logo/countries/new/es/zapi/AMC_BREAK.png
 AMC Crime,AMC CRIME,https://docdog.top/logo/countries/new/es/zapi/AMC_CRIME.png
 Antena 3 HD,ANTENA 3 HD,https://docdog.top/logo/countries/new/es/zapi/ANTENA_3.png
 Atreseries,Atreseries HD,https://docdog.top/logo/countries/new/es/zapi/ATRESERIES.png
@@ -587,7 +542,6 @@ Canal Cocina,CANAL COCINA,https://docdog.top/logo/countries/new/es/zapi/COCINA.p
 Comedy Central HD,COMEDYCENTRALHD,https://docdog.top/logo/countries/new/es/zapi/COMEDY_CENTRAL.png
 Cuatro HD,CUATRO HD,https://docdog.top/logo/countries/new/es/zapi/CUATRO.png
 DARK,DARK,https://docdog.top/logo/countries/new/es/zapi/DARK.png
-Discovery,DISCOVERY,https://docdog.top/logo/countries/new/es/zapi/DISCOVERY_CHANNEL.png
 Disney Channel,DISNEY JR,https://docdog.top/logo/countries/new/es/zapi/DISNEYJR.png
 Divinity,DIVINITY,https://docdog.top/logo/countries/new/es/zapi/DIVINITY.png
 DKISS,DKISS,https://docdog.top/logo/countries/new/es/zapi/DKISS.png
@@ -601,8 +555,6 @@ Factoría de Ficción,FDF,https://docdog.top/logo/countries/new/es/zapi/FDF.png
 Veo7,VEO 7,https://docdog.top/logo/countries/new/es/zapi/VEO7_.png
 Historia,HISTORIA,https://docdog.top/logo/countries/new/es/zapi/HISTORIA_.png
 Canal Hollywood HD,HOLLYWOOD,https://docdog.top/logo/countries/new/es/zapi/HOLLYWOOD_.png
-Iberalia TV,IBERALIA TV,https://docdog.top/logo/countries/new/es/zapi/IBERALIA.png
-Iberalia caza,IberaliaTV.es,https://docdog.top/logo/countries/new/es/zapi/IBERALIA_CAZA_.png
 La 2,La 2 HD,https://docdog.top/logo/countries/new/es/zapi/LA_2_.png
 La Otra,LaOtra,https://docdog.top/logo/countries/new/es/zapi/LA_OTRA.png
 La Sexta HD,LA SEXTA HD,https://docdog.top/logo/countries/new/es/zapi/LA_SEXTA.png
@@ -647,7 +599,6 @@ etb1,ETB 1.es,https://docdog.top/logo/countries/new/es/tivify/ETB1.png
 Betevé,Beteve.es,https://docdog.top/logo/countries/new/es/tivify/BETEVE.png
 France 24 (en Francais),DWLA,https://docdog.top/logo/countries/new/es/tivify/DW_EN_ESPANOL.png
 Canal Hollywood HD,ES: HOLLYWOOD,https://docdog.top/logo/countries/new/es/tivify/HOLLYWOOD.png
-Odisea,ODSEATV,https://docdog.top/logo/countries/new/es/tivify/ODISEA.png
 Canal Sur HD,Canal Sur.es,https://docdog.top/logo/countries/new/es/tivify/CANAL_SUR.png
 Esport 3,Esport 3.es,https://docdog.top/logo/countries/new/es/tivify/ESPORT_3.png
 etb2,ETB 2.es,https://docdog.top/logo/countries/new/es/tivify/ETB2.png
@@ -708,7 +659,6 @@ TPA8 Asturias,ES: TPA8,https://docdog.top/logo/countries/new/es/tivify/TPA8.png
 TVG2,TVG2,https://docdog.top/logo/countries/new/es/tivify/TVG_2.png
 La 8 Ávila,ES: LA 8,https://docdog.top/logo/countries/new/es/tivify/LA_8.png
 DARK,DARKSPA,https://docdog.top/logo/countries/new/es/tivify/DARK.png
-Historia,ES: DEJATE DE HISTORIAS TV,https://docdog.top/logo/countries/new/es/tivify/DEJATE_DE_HISTORIAS_TV.png
 Distrito TV,ES: DISTRITO TV,https://docdog.top/logo/countries/new/es/tivify/DISTRITO_TV.png
 TAC12,ES: TAC 12,https://docdog.top/logo/countries/new/es/tivify/TAC_12.png
 Bloomberg TV Europe,BEST,https://docdog.top/logo/countries/new/es/tivify/NEWSMAX_TV.png
@@ -1237,3 +1187,33 @@ TRACE Sports Stars,XXX: PHub Stars 23 Riley Reid,https://docdog.top/logo/countri
 TRACE Sports Stars,XXX: PHub Stars 23 Sharon Lee,https://docdog.top/logo/countries/xxx/porn18.png
 TRACE Sports Stars,XXX: PHub Stars 23 Skyler Vox,https://docdog.top/logo/countries/xxx/porn18.png
 Telesur HD,XXX: HUSTLER HD,https://docdog.top/logo/countries/xxx/porn18.png
+M+ Documentales HD,ES: M+ DOCUMENTALES FHD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
+M+ Documentales HD,ES: M+ DOCUMENTALES HD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
+National Geographic HD,ES: NATIONAL GEOGRAPHIC FHD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
+National Geographic HD,ES: NATIONAL GEOGRAPHIC HD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
+Nat Geo Wild HD,ES: NAT GEO WILD FHD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
+Nat Geo Wild HD,ES: NAT GEO WILD HD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
+Historia,ES: HISTORIA FHD,https://docdog.top/logo/countries/spain/movistar/Historia.png
+Historia,ES: HISTORIA HD,https://docdog.top/logo/countries/spain/movistar/Historia.png
+Discovery,ES: DISCOVERY FHD,https://docdog.top/logo/countries/spain/movistar/Discovery.png
+Discovery,ES: DISCOVERY HD,https://docdog.top/logo/countries/spain/movistar/Discovery.png
+DMAX,ES: DMAX FHD,https://docdog.top/logo/countries/spain/movistar/DMAX.png
+DMAX,ES: DMAX HD,https://docdog.top/logo/countries/spain/movistar/DMAX.png
+Odisea,ES: ODISEA FHD,https://docdog.top/logo/countries/spain/movistar/Odisea.png
+Odisea,ES: ODISEA HD,https://docdog.top/logo/countries/spain/movistar/Odisea.png
+Caza y Pesca HD,ES: CAZA Y PESCA FHD,https://docdog.top/logo/countries/spain/movistar/CAZHD.png
+Caza y Pesca HD,ES: CAZA Y PESCA HD,https://docdog.top/logo/countries/spain/movistar/CAZHD.png
+Iberalia TV,ES: IBERALIA TV FHD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
+Iberalia TV,ES: IBERALIA TV HD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
+Iberalia caza,ES: IBERALIA 100% CAZA FHD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
+Iberalia caza,ES: IBERALIA 100% CAZA HD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
+Iberalia pesca,ES: IBERALIA 100% PESCA FHD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
+Iberalia pesca,ES: IBERALIA 100% PESCA HD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
+BBC Earth,ES: BBC EARTH FHD,https://docdog.top/logo/countries/new/es/BBC_EARTH.png
+BBC History,ES: BBC HISTORY FHD,https://docdog.top/logo/countries/new/es/BBC_HISTORY.png
+BBC Food,ES: BBC FOOD FHD,https://docdog.top/logo/countries/new/es/BBC_FOOD.png
+BBC Lifestyle,ES: BBC LIFESTYLE FHD,https://docdog.top/logo/countries/new/es/BBC_LIFESTYLE.png
+AMC Break,ES: AMC BREAK FHD,https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png
+AMC Break,ES: AMC BREAK HD,https://docdog.top/logo/countries/new/es/AMC_BREAK.png
+SELEKT,ES: SELEKT FHD,https://docdog.top/logo/countries/es/SELEKT.png
+SELEKT,ES: SELEKT HD,https://docdog.top/logo/countries/new/es/SELEKT.png
