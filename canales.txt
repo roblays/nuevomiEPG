@@ -1187,13 +1187,23 @@ TRACE Sports Stars,XXX: PHub Stars 23 Riley Reid,https://docdog.top/logo/countri
 TRACE Sports Stars,XXX: PHub Stars 23 Sharon Lee,https://docdog.top/logo/countries/xxx/porn18.png
 TRACE Sports Stars,XXX: PHub Stars 23 Skyler Vox,https://docdog.top/logo/countries/xxx/porn18.png
 Telesur HD,XXX: HUSTLER HD,https://docdog.top/logo/countries/xxx/porn18.png
-National Geographic HD,ES: NATIONAL GEOGRAPHIC FHD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
 National Geographic HD,ES: NATIONAL GEOGRAPHIC HD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
-Nat Geo Wild HD,ES: NAT GEO WILD FHD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
 Nat Geo Wild HD,ES: NAT GEO WILD HD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
-Historia,ES: HISTORIA FHD,https://docdog.top/logo/countries/spain/movistar/Historia.png
 Historia,ES: HISTORIA HD,https://docdog.top/logo/countries/spain/movistar/Historia.png
-Discovery,ES: DISCOVERY FHD,https://docdog.top/logo/countries/spain/movistar/Discovery.png
 Discovery,ES: DISCOVERY HD,https://docdog.top/logo/countries/spain/movistar/Discovery.png
+DMAX,ES: DMAX HD,https://docdog.top/logo/countries/spain/movistar/DMAX.png
+Odisea,ES: ODISEA HD,https://docdog.top/logo/countries/spain/movistar/Odisea.png
+M+ Documentales HD,ES: M+ DOCUMENTALES HD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
+Caza y Pesca HD,ES: CAZA Y PESCA HD,https://docdog.top/logo/countries/spain/movistar/CAZHD.png
+Iberalia TV,ES: IBERALIA TV HD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
+BBC Earth,ES: BBC EARTH FHD,https://docdog.top/logo/countries/new/es/BBC_EARTH.png
+BBC History,ES: BBC HISTORY FHD,https://docdog.top/logo/countries/new/es/BBC_HISTORY.png
+BBC Food,ES: BBC FOOD FHD,https://docdog.top/logo/countries/new/es/BBC_FOOD.png
+BBC Lifestyle,ES: BBC LIFESTYLE FHD,https://docdog.top/logo/countries/new/es/BBC_LIFESTYLE.png
+National Geographic HD,ES: NATIONAL GEOGRAPHIC FHD,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
+Nat Geo Wild HD,ES: NAT GEO WILD FHD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
+Historia,ES: HISTORIA FHD,https://docdog.top/logo/countries/spain/movistar/Historia.png
+Discovery,ES: DISCOVERY FHD,https://docdog.top/logo/countries/spain/movistar/Discovery.png
 DMAX,ES: DMAX FHD,https://docdog.top/logo/countries/spain/movistar/DMAX.png
 Odisea,ES: ODISEA FHD,https://docdog.top/logo/countries/spain/movistar/Odisea.png
+M+ Documentales HD,ES: M+ DOCUMENTALES FHD,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
