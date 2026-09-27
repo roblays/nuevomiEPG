@@ -1,8 +1,7 @@
 # Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
-# RECOMENDADO LIMPIO. Generado desde la M3U subida el 2026-09-27.
-# Incluye mapeos manuales/exactos y coincidencias de alta confianza.
-# Columna 1 = canal fuente existente en DobleM. Columna 2 = tvg-id real de la M3U; si viene vacío, tvg-name/nombre exacto. Columna 3 = logo.
-# No mete canales de baja confianza para evitar que Kodi muestre EPG equivocada.
+# REVISADO v2 - generado desde la M3U actual subida el 2026-09-27.
+# 1668 canales: donde no hay EPG exacta se usa el canal más parecido existente en DobleM.
+# Columna 1 = canal fuente DobleM. Columna 2 = tvg-id real de la M3U o nombre si tvg-id viene vacío. Columna 3 = logo.
 La 1 HD,tve.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/LA_1.png
 La 2,La 2 HD,https://docdog.top/logo/countries/spain/movistar/LA_2.png
 Antena 3 HD,ANTENA 3 HD,https://docdog.top/logo/countries/spain/movistar/Antena_3.png
@@ -28,14 +27,24 @@ EWTN,EWTN.es,https://docdog.top/logo/countries/new/es/EWTN.png
 TV Canaria,ES: TV CANARIA HD,https://docdog.top/logo/countries/spain/CANARIA.png
 Onda Cádiz TV,ES: ONDA CADIZ RTV HD,https://docdog.top/logo/countries/new/es/ES_-_ONDA_CADIZ_RTV.png
 M+ LaLiga HD,mliga.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
+M+ LaLiga HD,M+.LALIGA.TV.es,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
+M+ LaLiga 2 HDR,mlig1.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png
 M+ LaLiga 3 HD,mlig2.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
 M+ LaLiga 4,M+.LALIGA.TV.4.es,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png
 M+ LaLiga 3 HD,M+ LALIGA TV 3 HD,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
 M+ LaLiga HDR,mliguh.movistarplus.es,https://docdog.top/logo/countries/new/es/movistar/M_LALIGA_HDR.png
 M+ LaLiga 2 HDR,mliuhd.movistarplus.es,https://docdog.top/logo/countries/new/es/movistar/M_LALIGA_2_HDR.png
+M+ LaLiga HD,ES: (FHD) M+ LALIGA TV BAR,https://docdog.top/logo/countries/spain/movistar/laligabares.png
+M+ LaLiga HD,ES: (HD) M+ LALIGA TV BAR,https://docdog.top/logo/countries/spain/movistar/laligabares.png
 M+ LaLiga HDR,M+ LALIGA HDR,https://docdog.top/logo/countries/new/es/orange/M_LALIGA_HDR.png
+M+ LaLiga HD,M+ LALIGA TV HD,https://docdog.top/logo/countries/new/es/orange/M_LALIGA.png
 M+ LaLiga 2 HDR,M+ LALIGA 2 HDR,https://docdog.top/logo/countries/new/es/orange/M_LALIGA_2_HDR.png
+DAZN LaLiga 2 HD,M+ LALIGA TV 2 HD,https://docdog.top/logo/countries/new/es/orange/M_LALIGA_2.png
+M+ LaLiga 4,M+ LALIGA TV 4 HD,https://docdog.top/logo/countries/new/es/orange/M_LALIGA_4.png
+M+ LaLiga 5,M+ LaLiga TV 5,https://docdog.top/logo/countries/new/es/orange/M_LALIGA_5.png
+M+ LaLiga 6,M+ LaLiga TV 6,https://docdog.top/logo/countries/new/es/orange/M_LALIGA_6.png
 DAZN LaLiga HD,daznli.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
+DAZN LaLiga HD,DAZN.LALIGA.es,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
 DAZN LaLiga 2 HD,daznl2.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png
 DAZN LaLiga 4,DAZN LaLiga 4,https://docdog.top/logo/countries/new/es/movistar/DAZN_LALIGA_4.png
 DAZN LaLiga 5,DAZN LaLiga 5,https://docdog.top/logo/countries/new/es/movistar/DAZN_LALIGA_5.png
@@ -71,6 +80,12 @@ M+ Liga de Campeones 10,M+.Liga.de.Campeones.10.es,https://docdog.top/logo/count
 M+ Liga de Campeones 11,M+.Liga.de.Campeones.11.es,https://docdog.top/logo/countries/new/es/orange/M_LIGA_DE_CAMPEONES_11.png
 M+ Liga de Campeones 12,M+.Liga.de.Campeones.12.es,https://docdog.top/logo/countries/new/es/orange/M_LIGA_DE_CAMPEONES_12.png
 M+ Liga de Campeones 13,M+.Liga.de.Campeones.13.es,https://docdog.top/logo/countries/new/es/orange/M_LIGA_DE_CAMPEONES_13.png
+M+ Liga de Campeones HD,M+LCAMPEON14,https://docdog.top/logo/countries/new/es/orange/M_LIGA_DE_CAMPEONES_14.png
+M+ Liga de Campeones HD,M+LCAMPEON15,https://docdog.top/logo/countries/new/es/orange/M_LIGA_DE_CAMPEONES_15.png
+M+ Liga de Campeones HD,M+LCAMPEON16,https://docdog.top/logo/countries/new/es/orange/M_LIGA_DE_CAMPEONES_16.png
+M+ Liga de Campeones HD,M+LCAMPEON17,https://docdog.top/logo/countries/new/es/orange/M_LIGA_DE_CAMPEONES_17.png
+M+ Liga de Campeones HD,M+LCAMPEON18,https://docdog.top/logo/countries/new/es/orange/M_LIGA_DE_CAMPEONES_18.png
+M+ Liga de Campeones HD,M+LCAMPEON19,https://docdog.top/logo/countries/new/es/orange/M_LIGA_DE_CAMPEONES_19.png
 LaLiga TV Hypermotion HD,mligs.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
 LaLiga TV Hypermotion HD,LALIGA.TV.HYPERMOTION.es,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
 LaLiga TV Hypermotion 2,mligs2.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png
@@ -98,8 +113,10 @@ LaLiga TV Hypermotion 11,ES: LALIGA TV HYPERMOTION 11 HD,https://docdog.top/logo
 LaLiga TV Hypermotion 12,ES: LALIGA TV HYPERMOTION 12 FHD,https://docdog.top/logo/countries/new/es/orange/LALIGA_TV_HYPERMOTION_12.png
 LaLiga TV Hypermotion 12,ES: LALIGA TV HYPERMOTION 12 HD,https://docdog.top/logo/countries/new/es/orange/LALIGA_TV_HYPERMOTION_12.png
 DAZN F1 HD,mvf1.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
+DAZN F1 HD,DAZN.F1.es,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
 DAZN F1 HD,DAZN F1 HD,https://docdog.top/logo/countries/new/es/orange/DAZN_F1_RES.png
 DAZN MotoGP,dazmot.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/DAZN_MOTOGP.png
+DAZN MotoGP,DAZN MOTO GP,https://docdog.top/logo/countries/new/es/orange/DAZN_MOTO_GP.png
 M+ Baloncesto,mbalct.movistarplus.es,https://docdog.top/logo/countries/new/es/movistar/M_BALONCESTO.png
 M+ Baloncesto 2,mbalc2.movistarplus.es,https://docdog.top/logo/countries/new/es/movistar/M_BALONCESTO_2.png
 DAZN Baloncesto,DAZN Baloncesto,https://docdog.top/logo/countries/new/es/other/DAZN_BALONCESTO.png
@@ -111,7 +128,7 @@ DAZN 3 HD,dazn3.movistarplus.es,https://docdog.top/logo/countries/new/es/movista
 DAZN 4 HD,dazn4.movistarplus.es,https://docdog.top/logo/countries/new/es/movistar/DAZN_4.png
 DAZN 1 HD,m1sd.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
 NFL Network,NFL Network,https://docdog.top/logo/countries/new/es/other/NFL_NETWORK.png
-Red Bull TV,Red Bull TV,https://docdog.top/logo/countries/new/es/other/RED_BULL_TV.png
+Red Bull TV (Rakuten TV),Red Bull TV,https://docdog.top/logo/countries/new/es/other/RED_BULL_TV.png
 Unbeaten,Unbeaten,https://docdog.top/logo/countries/new/es/other/UNBEATEN.png
 M+ Vamos HD,vamosd.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_Vamos.png
 M+ Vamos HD,M+.Vamos.es,https://docdog.top/logo/countries/spain/movistar/M_Vamos.png
@@ -128,24 +145,33 @@ M+ Deportes 6,M+.Deportes.6.es,https://docdog.top/logo/countries/spain/movistar/
 M+ Deportes 7,multi6.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png
 M+ Deportes 8,M+DEPORTES8,https://docdog.top/logo/countries/new/es/movistar/M_DEPORTES_8.png
 M+ Deportes 6,multi8.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png
+M+ Vamos HD,ES: M+ ELLAS V FHD,https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png
+M+ Vamos HD,ES: M+ ELLAS V HD,https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png
 M+ Golf HD,golf+.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_Golf.png
 M+ Golf 2 HD,golf2.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png
+M+ Deportes HD,ES: M+ COPA DEL REY FHD,https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png
 Primera Federación,Primera Federacion,https://docdog.top/logo/countries/es/PRIMERA_FEDERACION.png
 Primera Federación,mcopa.movistarplus.es,https://docdog.top/logo/countries/es/PRIMERA_FEDERACION.png
 Eurosport 1 HD,EUROSPORT 1 HD,https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png
 Eurosport 2,EUROSPORT 2 HD,https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png
+GOL,gol.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png
 Teledeporte,Teledeporte HD,https://docdog.top/logo/countries/spain/movistar/Teledeporte.png
 Real Madrid TV,Real Madrid TV HD,https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png
 UBEAT,Ubeat,https://docdog.top/logo/countries/spain/movistar/Ubeat.png
 Betis TV,Betis TV,https://docdog.top/logo/countries/spain/movistar/BETISTV.png
+DE | Rally TV,ES: RALLY TV FHD,https://docdog.top/logo/countries/spain/movistar/RallyTv.png
 MMA TV,MMA TV,https://docdog.top/logo/countries/new/es/movistar/MMA_TV.png
 BBC Top Gear,bbgea.movistarplus.es,https://docdog.top/logo/countries/new/es/movistar/BBC_TOP_GEAR.png
 Horse TV,Horse TV,https://docdog.top/logo/countries/new/es/movistar/HORSE_TV.png
 Nautical Channel,Nautica Channel,https://docdog.top/logo/countries/new/es/movistar/NAUTICAL_CHANNEL.png
 Moto ADV,Moto ADV,https://docdog.top/logo/countries/new/es/movistar/MOTO_ADV.png
+Rugby Challenge Spain,ES: RUGBY SPAIN FHD,https://docdog.top/logo/countries/new/es/movistar/RUGBY_SPAIN.png
+Rugby Challenge Spain,ES: RUGBY SPAIN HD,https://docdog.top/logo/countries/new/es/movistar/RUGBY_SPAIN.png
 Tennis Channel,ES: TENNIS CHANNEL FHD,https://docdog.top/logo/countries/new/es/movistar/TENNIS_CHANNEL.png
 Tennis Channel,ES: TENNIS CHANNEL HD,https://docdog.top/logo/countries/new/es/movistar/TENNIS_CHANNEL.png
 ESPN Deportes,ES: ESPN DEPORTES FHD,https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png
+MyPadel TV,ES: MYPADEL FHD,https://docdog.top/logo/countries/new/es/movistar/MYPADEL.png
+MyPadel TV,ES: MYPADEL HD,https://docdog.top/logo/countries/new/es/movistar/MYPADEL.png
 M+ Estrenos HD,mv1.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png
 M+ Hits HD,mhits.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_HITS.png
 M+ Clásicos HD,mclas.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png
@@ -157,11 +183,13 @@ M+ Cine Español,dcesp.movistarplus.es,https://docdog.top/logo/countries/spain/m
 Calle 13 HD,CALLE 13 HD,https://docdog.top/logo/countries/spain/movistar/Calle_13.png
 Cosmo HD,cosmo.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/COSMO.png
 SyFy HD,SYFY HD,https://docdog.top/logo/countries/spain/movistar/SYFY.png
+SkyShowtime,skysho.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png
 STAR Channel HD,STAR Channel,https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png
 TCM HD,TCM HD,https://docdog.top/logo/countries/spain/movistar/TCM.png
 Squirrel 2,SQUIRREL 2,https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png
 Be Mad,Be Mad HD,https://docdog.top/logo/countries/spain/movistar/BE_MAD.png
 Warner TV HD,tnt.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Warner_TV.png
+Canal Hollywood HD,HOLLYWOOD,https://docdog.top/logo/countries/spain/movistar/Hollywood.png
 AXN HD,AXN HD,https://docdog.top/logo/countries/spain/movistar/AXN.png
 Comedy Central HD,COMEDYCENTRALHD,https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png
 M+ Originales HD,morig.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_Originales.png
@@ -173,6 +201,9 @@ XTRM,XTRM,https://docdog.top/logo/countries/spain/movistar/XTRM.png
 AMC HD,AMC CRIME,https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png
 AXN Movies HD,AXN MOVIES,https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png
 BBC Series,bbdra.movistarplus.es,https://docdog.top/logo/countries/new/es/BBC_SERIES.png
+M+ Vamos 2,mvciva.movistarplus.es,https://docdog.top/logo/countries/new/es/M+_LOS_2000.png
+M+ Comedia HD,morgul.movistarplus.es,https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png
+HBO Max Avances,maxava.movistarplus.es,https://docdog.top/logo/countries/new/es/MAX_AVANCES.png
 Squirrel TV,squi.movistarplus.es,https://docdog.top/logo/countries/new/es/SQUIRREL_TV.png
 BOM Cine,BOM,https://docdog.top/logo/countries/new/es/BOM_CINE.png
 Gametoon,Gametoon,https://docdog.top/logo/countries/new/es/GAMETOON.png
@@ -205,19 +236,29 @@ Cazavisión,ES: CAZAVISIÓN HD,https://docdog.top/logo/countries/spain/movistar/
 Iberalia caza,ES: IBERALIA 100% CAZA HD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
 Iberalia pesca,ES: IBERALIA 100% PESCA HD,https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png
 Al Jazeera English HD,aljaze.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Al_Jazeera_English.png
+France 2,ES: FRANCE24 (FR) FHD,https://docdog.top/logo/countries/spain/movistar/FRANCE24_FR.png
+1+1 International,ES: 1+1 INTERNACIONAL FHD,https://docdog.top/logo/countries/spain/movistar/1_1_Internacional.png
+CNBC Europe HD,ES: CNBC FHD,https://docdog.top/logo/countries/spain/movistar/CNBC.png
+TV5 Monde Europe HD,tv5.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png
 CGTN Español,cctv-e.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png
+Bloomberg TV Europe,ES: BLOOMBERG FHD,https://docdog.top/logo/countries/spain/movistar/Bloomberg.png
 24 Horas,24h.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/24_Horas.png
 BBC World News Europe HD,BBC World News Europe HD,https://docdog.top/logo/countries/spain/movistar/BBC_World.png
+CNN en Español,cnn.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/CNN_Int.png
 EuroNews,enw.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Euronews.png
 Negocios TV,ES: NEGOCIOS TV FHD,https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png
 Canal Sur Andalucía,cansur.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png
 TVG Europa HD,tvgal.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/TVG_Europa.png
 Canal Extremadura SAT,EXTMADU,https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png
+Aragón TV,ES: ARAGÓN TV INT FHD,https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png
+TV Berguedà,etb.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/EITB_Basque.png
+Telemadrid,telmad.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png
 Caracol TV,ES: CARACOL TV FHD,https://docdog.top/logo/countries/new/es/CARACOL_TV.png
 Pro TV,ES: PRO TV FHD,https://docdog.top/logo/countries/new/es/PRO_TV.png
 EuroNews,Euronews.es,https://docdog.top/logo/countries/spain/movistar/Euronews.png
 Negocios TV,ES: NEGOCIOS TV HD,https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png
 Canal Extremadura SAT,ES: CANAL EXTREMADURA SAT HD,https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png
+Aragón TV,ES: ARAGÓN TV INT HD,https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png
 Caracol TV,ES: CARACOL TV HD,https://docdog.top/logo/countries/new/es/CARACOL_TV.png
 Pro TV,ES: PRO TV HD,https://docdog.top/logo/countries/new/es/PRO_TV.png
 Divinity,DIVINITY,https://docdog.top/logo/countries/spain/movistar/Divinity.png
@@ -227,10 +268,15 @@ MTV España,MTV ESPAÑA,https://docdog.top/logo/countries/spain/movistar/MTV.png
 Ten,TEN,https://docdog.top/logo/countries/spain/movistar/Ten.png
 DKISS,DKISS,https://docdog.top/logo/countries/spain/movistar/DKISS.png
 Canal Cocina,CANAL COCINA,https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png
+Canal Terrassa,ES: CANAL DECASA FHD,https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png
+M+ Documentales HD,ES: M+ BUEN VIAJE FHD,https://docdog.top/logo/countries/spain/movistar/BuenViaje.png
+Canal Terrassa,ES: CANAL DECASA HD,https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png
+M+ Documentales HD,ES: M+ BUEN VIAJE HD,https://docdog.top/logo/countries/spain/movistar/BuenViaje.png
 Mezzo,mezzo.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Mezzo.png
 Mezzo Live HD,ES: MEZZO LIVE FHD,https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png
 Mezzo Live HD,ES: MEZZO LIVE HD,https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png
 Baby TV,baby.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Baby_TV.png
+Disney Channel,DISNEY JR,https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png
 Nick JR,NICK JR,https://docdog.top/logo/countries/spain/movistar/NICK_JR.png
 Nickelodeon HD,NICKELODEONHD,https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png
 Dreamworks HD,dwsp.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Dreamworks.png
@@ -238,9 +284,13 @@ Disney Channel,ES: DISNEY CHANNEL FHD,https://docdog.top/logo/countries/spain/mo
 Boing,BOING,https://docdog.top/logo/countries/spain/movistar/Boing.png
 Anime Visión,Anime Visión,https://docdog.top/logo/countries/new/es/ANIME_VISION.png
 Anime Visión Classics,Anime Visión Classics,https://docdog.top/logo/countries/new/es/ANIME_VISION_CLASSICS.png
+Clan,clantv.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png
 Nickelodeon HD,nick.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png
 Disney Channel,ES: DISNEY CHANNEL HD,https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png
+La 7 Salamanca,ES: CASTILLA LA MANCHA,https://docdog.top/logo/countries/spain/movistar/cmm.png
 À Punt,ES: A PUNT,https://docdog.top/logo/countries/es/A_PUNT.png
+Onetoro,OneToro TV,https://docdog.top/logo/countries/spain/movistar/one_toro.png
+Onetoro,Onetoro TV,https://docdog.top/logo/countries/spain/movistar/one_toro.png
 Torolé TV,ES: TOROLE TV,https://docdog.top/logo/countries/spain/movistar/torole_tv.png
 Pelis Top (Rakuten TV),ES: RAKUTENTV PELIS TOP,https://docdog.top/logo/countries/new/es/RAKUTENTV_PELIS_TOP.png
 Acción (Rakuten TV),ES: RAKUTENTV ACCION,https://docdog.top/logo/countries/new/es/RAKUTENTV_ACCION.png
@@ -252,93 +302,249 @@ Thrillers (Rakuten TV),ES: RAKUTENTV THRILLERS,https://docdog.top/logo/countries
 Cine Friki,ES: RAKUTENTV CINE FRIKI,https://docdog.top/logo/countries/new/es/RAKUTENTV_CINE_FRIKI.png
 DARK,ES: RAKUTENTV DARK MATTER,https://docdog.top/logo/countries/new/es/RAKUTENTV_DARK_MATTER.png
 Pelis Top (Rakuten TV),ES: RAKUTENTV GRJNGO,https://docdog.top/logo/countries/new/es/RAKUTENTV_GRJNGO.png
-Crimen (Rakuten TV),ES: RAKUTENTV CRIMEN,https://docdog.top/logo/countries/new/es/RAKUTENTV_CRIMEN.png
+Todo Crimen (Rakuten TV),ES: RAKUTENTV CRIMEN,https://docdog.top/logo/countries/new/es/RAKUTENTV_CRIMEN.png
 Atrescine,ES: RAKUTENTV FILMRISE SCI-FI,https://docdog.top/logo/countries/new/es/RAKUTENTV_FILMRISE_SCI-FI.png
+24 Horas,24h HD,https://docdog.top/logo/countries/new/es/avatel/24H.png
+La 7 Rioja,7 RM,https://docdog.top/logo/countries/new/es/avatel/7_RM.png
 À Punt,A Punt HD,https://docdog.top/logo/countries/new/es/avatel/A_PUNT.png
 Andalucía TV,Andalucia TV,https://docdog.top/logo/countries/new/es/avatel/ANDALUCIA_TV.png
 Aragón TV,Aragón TV,https://docdog.top/logo/countries/new/es/avatel/ARAGON_TV.png
+Infinity Viajes,ES: BUEN VIAJE FHD,https://docdog.top/logo/countries/new/es/avatel/BUEN_VIAJE.png
+Infinity Viajes,ES: BUEN VIAJE HD,https://docdog.top/logo/countries/new/es/avatel/BUEN_VIAJE.png
+Infinity Viajes,ES: BUEN VIAJE SD,https://docdog.top/logo/countries/new/es/avatel/BUEN_VIAJE.png
+Calle 13 HD,ES: CABLE UNION FHD,https://docdog.top/logo/countries/new/es/avatel/CABLE_UNION.png
+Calle 13 HD,ES: CABLE UNION HD,https://docdog.top/logo/countries/new/es/avatel/CABLE_UNION.png
+Calle 13 HD,ES: CABLE UNION SD,https://docdog.top/logo/countries/new/es/avatel/CABLE_UNION.png
+Canal Cocina,ES: CANAL COSTA FHD,https://docdog.top/logo/countries/new/es/avatel/CANAL_COSTA.png
+Canal Cocina,ES: CANAL COSTA HD,https://docdog.top/logo/countries/new/es/avatel/CANAL_COSTA.png
+Canal Cocina,ES: CANAL COSTA SD,https://docdog.top/logo/countries/new/es/avatel/CANAL_COSTA.png
+Canal Blau,ES: CANAL LUZ FHD,https://docdog.top/logo/countries/new/es/avatel/CANAL_LUZ.png
+Canal Blau,ES: CANAL LUZ HD,https://docdog.top/logo/countries/new/es/avatel/CANAL_LUZ.png
+Canal Blau,ES: CANAL LUZ SD,https://docdog.top/logo/countries/new/es/avatel/CANAL_LUZ.png
+Canal Sur HD,Canal Sur 2,https://docdog.top/logo/countries/new/es/avatel/CANAL_SUR_2.png
 Canal Sur HD,Canal Sur HD,https://docdog.top/logo/countries/new/es/avatel/CANAL_SUR.png
 Canal Extremadura,Canal Extremadura,https://docdog.top/logo/countries/new/es/avatel/CANALE_EXTREMADURA.png
 Clan,Clan HD,https://docdog.top/logo/countries/new/es/avatel/CLAN.png
 CMM TV,CMM TV,https://docdog.top/logo/countries/new/es/avatel/CMM_TV.png
+La 7 CyL,ES: CYL 7  SD,https://docdog.top/logo/countries/new/es/avatel/CYL_7_.png
+La 7 CyL,ES: CYL 7 HD,https://docdog.top/logo/countries/new/es/avatel/CYL_7.png
+La 7 CyL,ES: CYL 7 FHD,https://docdog.top/logo/countries/new/es/avatel/CYL_7.png
+La 7 CyL,ES: CYL 8 SD,https://docdog.top/logo/countries/new/es/avatel/CYL_8.png
+La 7 CyL,ES: CYL 8 HD,https://docdog.top/logo/countries/new/es/avatel/CYL_8.png
+La 7 CyL,ES: CYL 8 FHD,https://docdog.top/logo/countries/new/es/avatel/CYL_8.png
 DBike,ES: DBIKE FHD,https://docdog.top/logo/countries/new/es/avatel/DBIKE.png
 DBike,ES: DBIKE HD,https://docdog.top/logo/countries/new/es/avatel/DBIKE.png
 DBike,ES: DBIKE SD,https://docdog.top/logo/countries/new/es/avatel/DBIKE.png
+Disney Channel,playdc.movistarplus.es,https://docdog.top/logo/countries/new/es/avatel/DISNEY_CHANEL.png
+Sundance TV,ES: DOCE TV VISO FHD,https://docdog.top/logo/countries/new/es/avatel/DOCE_TV_VISO.png
+Sundance TV,ES: DOCE TV VISO HD,https://docdog.top/logo/countries/new/es/avatel/DOCE_TV_VISO.png
+Sundance TV,ES: DOCE TV VISO SD,https://docdog.top/logo/countries/new/es/avatel/DOCE_TV_VISO.png
 El Toro TV,El Toro TV,https://docdog.top/logo/countries/new/es/avatel/EL_TORO.png
 Esport 3,Esport 3,https://docdog.top/logo/countries/new/es/avatel/ESPORT_3.png
+etb1,ETB 1 HD,https://docdog.top/logo/countries/new/es/avatel/ETB_1.png
+etb2,ETB 2 HD,https://docdog.top/logo/countries/new/es/avatel/ETB_2.png
+etb1,ETB 3,https://docdog.top/logo/countries/new/es/avatel/ETB3.png
+etb1,ES: ETB4,https://docdog.top/logo/countries/new/es/avatel/ETB4.png
+Factoría de Ficción,FDF,https://docdog.top/logo/countries/new/es/avatel/FDF.png
 Fight Time,ES: FIGHT TIME FHD,https://docdog.top/logo/countries/new/es/avatel/FIGHT_TIME.png
 Fight Time,ES: FIGHT TIME HD,https://docdog.top/logo/countries/new/es/avatel/FIGHT_TIME.png
 Fight Time,ES: FIGHT TIME SD,https://docdog.top/logo/countries/new/es/avatel/FIGHT_TIME.png
+TVG,ES: FTV FHD,https://docdog.top/logo/countries/new/es/avatel/FTV.png
+TVG,ES: FTV HD,https://docdog.top/logo/countries/new/es/avatel/FTV.png
+TVG,ES: FTV SD,https://docdog.top/logo/countries/new/es/avatel/FTV.png
 Global Telenovelas,ES: GLOBAL TELENOVELAS FHD,https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TELENOVELAS.png
 Global Telenovelas,ES: GLOBAL TELENOVELAS HD,https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TELENOVELAS.png
 Global Telenovelas,ES: GLOBAL TELENOVELAS SD,https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TELENOVELAS.png
 Global Tendencias,ES: GLOBAL TENDENCIAS,https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TENDENCIAS.png
+Imás TV,HITTVES,https://docdog.top/logo/countries/new/es/avatel/HIT_TV.png
 Huelva TV,ES: HUELVA TV FHD,https://docdog.top/logo/countries/new/es/avatel/HUELVA_TV.png
 Huelva TV,ES: HUELVA TV HD,https://docdog.top/logo/countries/new/es/avatel/HUELVA_TV.png
 Huelva TV,ES: HUELVA TV SD,https://docdog.top/logo/countries/new/es/avatel/HUELVA_TV.png
-Iberalia TV,ES: IBERALIA CAZA FHD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png
-Iberalia TV,ES: IBERALIA CAZA HD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png
-Iberalia TV,ES: IBERALIA CAZA SD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png
+DAZN 3 HD,IB3,https://docdog.top/logo/countries/new/es/avatel/IB_3.png
+Iberalia caza,ES: IBERALIA CAZA FHD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png
+Iberalia caza,ES: IBERALIA CAZA HD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png
+Iberalia caza,ES: IBERALIA CAZA SD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png
 Iberalia TV,IBERALIA TV,https://docdog.top/logo/countries/new/es/avatel/IBERALIA.png
-Iberalia TV,ES: IBERALIA PESCA FHD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png
-Iberalia TV,ES: IBERALIA PESCA HD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png
-Iberalia TV,ES: IBERALIA PESCA SD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png
+Iberalia pesca,ES: IBERALIA PESCA FHD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png
+Iberalia pesca,ES: IBERALIA PESCA HD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png
+Iberalia pesca,ES: IBERALIA PESCA SD,https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png
+La Ocho Mediterráneo,La 8 Mediterraneo HD,https://docdog.top/logo/countries/new/es/avatel/LA_8_MEDITERRANEO.png
 La Otra,LaOtra,https://docdog.top/logo/countries/new/es/avatel/LA_OTRA.png
+Lleida TV,ES: LEBRIJA TV FHD,https://docdog.top/logo/countries/new/es/avatel/LEBRIJA_TV.png
+Lleida TV,ES: LEBRIJA TV HD,https://docdog.top/logo/countries/new/es/avatel/LEBRIJA_TV.png
+Lleida TV,ES: LEBRIJA TV SD,https://docdog.top/logo/countries/new/es/avatel/LEBRIJA_TV.png
 Levante TV,Levante TV,https://docdog.top/logo/countries/new/es/avatel/LEVANTE_TV.png
+Imás TV,ES: MARS 24,https://docdog.top/logo/countries/new/es/avatel/MARS_24.png
+3CatInfo,Mega.es,https://docdog.top/logo/countries/new/es/avatel/MEDINFOR.png
 Moto ADV,ES: MOTO ADV FHD,https://docdog.top/logo/countries/new/es/avatel/MOTO_ADV.png
 Moto ADV,ES: MOTO ADV HD,https://docdog.top/logo/countries/new/es/avatel/MOTO_ADV.png
 Moto ADV,ES: MOTO ADV SD,https://docdog.top/logo/countries/new/es/avatel/MOTO_ADV.png
+NFL Network,PARAMOUNT NETWORK,https://docdog.top/logo/countries/new/es/avatel/PARAMOUNT_NETWORK.png
+Deutsche W,ES: PELUCHE,https://docdog.top/logo/countries/new/es/avatel/PELUCHE.png
+Esport 3,33,https://docdog.top/logo/countries/new/es/avatel/SUPER_333.png
+Surf Channel,ES: SURF CHANEL FHD,https://docdog.top/logo/countries/new/es/avatel/SURF_CHANEL.png
+Surf Channel,ES: SURF CHANEL HD,https://docdog.top/logo/countries/new/es/avatel/SURF_CHANEL.png
+Surf Channel,ES: SURF CHANEL SD,https://docdog.top/logo/countries/new/es/avatel/SURF_CHANEL.png
+TV Melilla,ES: TELEJUMILLA FHD,https://docdog.top/logo/countries/new/es/avatel/TELEJUMILLA.png
+TV Melilla,ES: TELEJUMILLA HD,https://docdog.top/logo/countries/new/es/avatel/TELEJUMILLA.png
+TV Melilla,ES: TELEJUMILLA SD,https://docdog.top/logo/countries/new/es/avatel/TELEJUMILLA.png
 Telemadrid,Telemadrid,https://docdog.top/logo/countries/new/es/avatel/TELEMADRID.png
+Telesur HD,ES: TELENERJA FHD,https://docdog.top/logo/countries/new/es/avatel/TELENERJA.png
+Telesur HD,ES: TELENERJA HD,https://docdog.top/logo/countries/new/es/avatel/TELENERJA.png
+Telesur HD,ES: TELENERJA SD,https://docdog.top/logo/countries/new/es/avatel/TELENERJA.png
+Telesur HD,ES: TELEONUBA FHD,https://docdog.top/logo/countries/new/es/avatel/TELEONUBA.png
+Telesur HD,ES: TELEONUBA HD,https://docdog.top/logo/countries/new/es/avatel/TELEONUBA.png
+Telesur HD,ES: TELEONUBA SD,https://docdog.top/logo/countries/new/es/avatel/TELEONUBA.png
 TRECE,TRECE,https://docdog.top/logo/countries/new/es/avatel/TRECE_TV.png
 TV Canaria,ES: TV CANARIAS FHD,https://docdog.top/logo/countries/new/es/avatel/TV_CANARIAS.png
 TV Canaria,ES: TV CANARIAS HD,https://docdog.top/logo/countries/new/es/avatel/TV_CANARIAS.png
 TV Canaria,ES: TV CANARIAS SD,https://docdog.top/logo/countries/new/es/avatel/TV_CANARIAS.png
 TV3,TV3,https://docdog.top/logo/countries/new/es/avatel/TV3.png
+TVG,TVG 2,https://docdog.top/logo/countries/new/es/avatel/TVG_2.png
 TVG,TVG,https://docdog.top/logo/countries/new/es/avatel/TVG.png
+Garage TV,ES: VEGA FIBRA TV HORADADA FHD,https://docdog.top/logo/countries/new/es/avatel/VEGA_FIBRA_TV_HORADADA.png
+Garage TV,ES: VEGA FIBRA TV HORADADA HD,https://docdog.top/logo/countries/new/es/avatel/VEGA_FIBRA_TV_HORADADA.png
+Garage TV,ES: VEGA FIBRA TV HORADADA SD,https://docdog.top/logo/countries/new/es/avatel/VEGA_FIBRA_TV_HORADADA.png
+LaLiga TV BAR HD,ES: VEGAFIBRA TV BENEJUZAR FHD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_BENEJUZAR.png
+LaLiga TV BAR HD,ES: VEGAFIBRA TV BENEJUZAR HD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_BENEJUZAR.png
+LaLiga TV BAR HD,ES: VEGAFIBRA TV BENEJUZAR SD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_BENEJUZAR.png
+Garage TV,ES: VEGAFIBRA TV COMARCAL FHD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMARCAL.png
+Garage TV,ES: VEGAFIBRA TV COMARCAL HD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMARCAL.png
+Garage TV,ES: VEGAFIBRA TV COMARCAL SD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMARCAL.png
+Navarra TV 2,ES: VEGAFIBRA TV COMERCAL 2 FHD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMERCAL_2.png
+Navarra TV 2,ES: VEGAFIBRA TV COMERCAL 2 HD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMERCAL_2.png
+Navarra TV 2,ES: VEGAFIBRA TV COMERCAL 2 SD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMERCAL_2.png
+Garage TV,ES: VEGAFIBRA TV GARMERS FHD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_GARMERS.png
+Garage TV,ES: VEGAFIBRA TV GARMERS HD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_GARMERS.png
+Garage TV,ES: VEGAFIBRA TV GARMERS SD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_GARMERS.png
+IB3 TV Illes Balears,ES: VEGAFIBRA TV LOS DOLORES FHD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_LOS_DOLORES.png
+IB3 TV Illes Balears,ES: VEGAFIBRA TV LOS DOLORES HD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_LOS_DOLORES.png
+IB3 TV Illes Balears,ES: VEGAFIBRA TV LOS DOLORES SD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_LOS_DOLORES.png
+Garage TV,ES: VEGAFIBRA TV SAN MIGUEL FHD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_SAN_MIGUEL.png
+Garage TV,ES: VEGAFIBRA TV SAN MIGUEL HD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_SAN_MIGUEL.png
+Garage TV,ES: VEGAFIBRA TV SAN MIGUEL SD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_SAN_MIGUEL.png
+Garage TV,ES: VEGAFIBRA TV TELECOLOR FHD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_TELECOLOR.png
+Garage TV,ES: VEGAFIBRA TV TELECOLOR HD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_TELECOLOR.png
+Garage TV,ES: VEGAFIBRA TV TELECOLOR SD,https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_TELECOLOR.png
+TELEVIGO,ES: VELEVISA FHD,https://docdog.top/logo/countries/new/es/avatel/VELEVISA.png
+TELEVIGO,ES: VELEVISA HD,https://docdog.top/logo/countries/new/es/avatel/VELEVISA.png
+TELEVIGO,ES: VELEVISA SD,https://docdog.top/logo/countries/new/es/avatel/VELEVISA.png
+M+ Cero,ES: VELEVISA RECUERDO,https://docdog.top/logo/countries/new/es/avatel/VELEVISA_RECUERDO.png
+Baby TV,BabyTV,https://docdog.top/logo/countries/new/es/zapi/BABYTV.png
+Cuéntame,BuenViaje.es,https://docdog.top/logo/countries/new/es/zapi/BUENVIAJE.png
 Escapa TV,ESCAPA TV HD,https://docdog.top/logo/countries/new/es/zapi/ESCAPATV.png
+Classica HD,Galicia.TV.es,https://docdog.top/logo/countries/new/es/zapi/GALICIA.png
 Veo7,VEO 7,https://docdog.top/logo/countries/new/es/zapi/VEO7_.png
-Iberalia TV,IberaliaTV.es,https://docdog.top/logo/countries/new/es/zapi/IBERALIA_CAZA_.png
+Iberalia caza,IberaliaTV.es,https://docdog.top/logo/countries/new/es/zapi/IBERALIA_CAZA_.png
 La 1 HD,LA 1 HD,https://docdog.top/logo/countries/new/es/zapi/LA1_.png
+National Geographic HD,NAT GEO HD,https://docdog.top/logo/countries/new/es/zapi/NAT_GEOGRAPHIC.png
+STAR Channel HD,ParamountChannel.es,https://docdog.top/logo/countries/new/es/zapi/PARAMOUNT_CHANNEL.png
+PTV Málaga,PTV Córdoba,https://docdog.top/logo/countries/new/es/zapi/PTV_CORDOBA.png
+PTV Málaga,PTV Granada,https://docdog.top/logo/countries/new/es/zapi/PTV_GRANADA.png
 PTV Málaga,PTV Málaga,https://docdog.top/logo/countries/new/es/zapi/PTV_MALAGA.png
+PTV Málaga,PTV Sevilla,https://docdog.top/logo/countries/new/es/zapi/PTV_SEVILLA.png
 RekTV,RekTV,https://docdog.top/logo/countries/new/es/zapi/REKTV.png
+Squirrel 2,SQUIRREL,https://docdog.top/logo/countries/new/es/zapi/SQUIRREL.png
 Global Telenovelas,Global Telenovelas,https://docdog.top/logo/countries/new/es/zapi/TELENOVELAS.png
 Warner TV HD,WARNERTV HD,https://docdog.top/logo/countries/new/es/zapi/WARNER.png
+Extreme Channel,ExtremeSports.es,https://docdog.top/logo/countries/new/es/zapi/EXTREME.png
 AMC HD,AMC Western,https://docdog.top/logo/countries/new/es/zapi/AMC_WESTERN.png
 AMC HD,AMC Living,https://docdog.top/logo/countries/new/es/zapi/AMC_LIVING.png
+24 Horas,324CAT,https://docdog.top/logo/countries/new/es/tivify/3_24.png
 Betevé,betevé,https://docdog.top/logo/countries/new/es/tivify/BETEVE.png
+CNN en Español,DWLA,https://docdog.top/logo/countries/new/es/tivify/DW_EN_ESPANOL.png
 La 2,la2.movistarplus.es,https://docdog.top/logo/countries/new/es/tivify/LA_2.png
 Al Jazeera English HD,Al Jazeera English,https://docdog.top/logo/countries/new/es/tivify/AL_JAZEERA.png
+Canal Blau,ES: CANAL PARLAMENTO,https://docdog.top/logo/countries/new/es/tivify/CANAL_PARLAMENTO.png
+DE | Motorvision TV,MTRVSN,https://docdog.top/logo/countries/new/es/tivify/MOTORVISION_TV.png
 Telecinco HD,Telecinco.es,https://docdog.top/logo/countries/new/es/tivify/TELECINCO.png
 Cuatro HD,Cuatro.es,https://docdog.top/logo/countries/new/es/tivify/CUATRO.png
+Esport 3,33.es,https://docdog.top/logo/countries/new/es/tivify/SUPER_3-33.png
 À Punt,À Punt.es,https://docdog.top/logo/countries/new/es/tivify/À_PUNT.png
+TPA7 Asturias,TPA7,https://docdog.top/logo/countries/new/es/tivify/TPA7.png
 AXN HD,AXN.es,https://docdog.top/logo/countries/new/es/tivify/AXN.png
-Red Bull TV,ES: RED BULL TV,https://docdog.top/logo/countries/new/es/tivify/RED_BULL_TV.png
+24 Horas,ES: CANAL 24 HORAS,https://docdog.top/logo/countries/new/es/tivify/CANAL_24_HORAS.png
+Factoría de Ficción,FDFS,https://docdog.top/logo/countries/new/es/tivify/FDF.png
+Red Bull TV (Rakuten TV),ES: RED BULL TV,https://docdog.top/logo/countries/new/es/tivify/RED_BULL_TV.png
 Pirineus TV,ES: PIRINEUS TV,https://docdog.top/logo/countries/new/es/tivify/PIRINEUS_TV.png
 NHK WORLD,NHKWL,https://docdog.top/logo/countries/new/es/tivify/NHK_WORLD.png
+Canal Blau,ES: CANAL MALAGA,https://docdog.top/logo/countries/new/es/tivify/CANAL_MALAGA.png
 Mezzo,Mezzo.es,https://docdog.top/logo/countries/new/es/tivify/MEZZO.png
+PRO TV RUMANIA,ES: FIBWI TV AUTONOMICA,https://docdog.top/logo/countries/new/es/tivify/FIBWI_TV_AUTONOMICA.png
+PTV Málaga,ES: 101TV MALAGA,https://docdog.top/logo/countries/new/es/tivify/101TV_MALAGA.png
 AMC HD,ES: AMC,https://docdog.top/logo/countries/new/es/tivify/AMC.png
 El 9 TV,ES: EL 9 TV,https://docdog.top/logo/countries/new/es/tivify/EL_9_TV.png
 Mezzo Live HD,Mezzo Live.es,https://docdog.top/logo/countries/new/es/tivify/MEZZO_LIVE.png
 Telesur HD,Telesur.es,https://docdog.top/logo/countries/new/es/tivify/TELESUR.png
+Infinity Viajes,ES: ¡BUEN VIAJE!,https://docdog.top/logo/countries/new/es/tivify/BUEN_VIAJE.png
+Al Jazeera English HD,ALJAZAR,https://docdog.top/logo/countries/new/es/tivify/AL_JAZEERA_ARABIC.png
+TV Chile,ES: TV RIPOLLèS,https://docdog.top/logo/countries/new/es/tivify/TV_RIPOLLèS.png
+Top Barça,ES: TRT ARABI,https://docdog.top/logo/countries/new/es/tivify/TRT_ARABI.png
+IB3 TV Illes Balears,IB3.es,https://docdog.top/logo/countries/new/es/tivify/IB3.png
 AXN Movies HD,AXN Movies.es,https://docdog.top/logo/countries/new/es/tivify/AXN_MOVIES.png
+NHK WORLD,TRTWRSD,https://docdog.top/logo/countries/new/es/tivify/TRT_WORLD.png
+Popular TV Región de Murcia,ES: 7 REGION DE MURCIA,https://docdog.top/logo/countries/new/es/tivify/7_REGION_DE_MURCIA.png
 CMM TV,CMM,https://docdog.top/logo/countries/new/es/tivify/CMM_TV.png
+RunTime Familia,ES: ENFAMILIA,https://docdog.top/logo/countries/new/es/tivify/ENFAMILIA.png
+Canal Terrassa,MONTTV,https://docdog.top/logo/countries/new/es/tivify/CANAL_4_TELEVISIO.png
+TVG,1+1 Internacional.es,https://docdog.top/logo/countries/new/es/tivify/TVG_SAT.png
+TV Berguedà,ES: ETB BASQUE,https://docdog.top/logo/countries/new/es/tivify/ETB_BASQUE.png
+Aragón TV,ARAGON,https://docdog.top/logo/countries/new/es/tivify/ARAGON_TV_INT.png
 Canal Sur Andalucía,Canal Sur Andalucía.es,https://docdog.top/logo/countries/new/es/tivify/CANAL_SUR_ANDALUCIA.png
 Telemadrid Internacional,Telemadrid Int..es,https://docdog.top/logo/countries/new/es/tivify/TELEMADRID_INTERNACIONAL.png
+La 7 CyL,ES: LA 7,https://docdog.top/logo/countries/new/es/tivify/LA_7.png
 TV Canaria,TV Canaria.es,https://docdog.top/logo/countries/new/es/tivify/TV_CANARIA.png
+Squirrel TV,ES: DESCUBRE TIVIFY,https://docdog.top/logo/countries/new/es/tivify/DESCUBRE_TIVIFY.png
+TPA8 Asturias,ES: TPA8,https://docdog.top/logo/countries/new/es/tivify/TPA8.png
 TVG2,TVG2,https://docdog.top/logo/countries/new/es/tivify/TVG_2.png
+La 8 León,ES: LA 8,https://docdog.top/logo/countries/new/es/tivify/LA_8.png
 Historia,ES: DEJATE DE HISTORIAS TV,https://docdog.top/logo/countries/new/es/tivify/DEJATE_DE_HISTORIAS_TV.png
 Distrito TV,ES: DISTRITO TV,https://docdog.top/logo/countries/new/es/tivify/DISTRITO_TV.png
+TAC12,ES: TAC 12,https://docdog.top/logo/countries/new/es/tivify/TAC_12.png
+Escapa TV,BEST,https://docdog.top/logo/countries/new/es/tivify/NEWSMAX_TV.png
 Pocoyó,ES: POCOYO,https://docdog.top/logo/countries/new/es/tivify/POCOYO.png
+Telemadrid,ES: TELERIBERA,https://docdog.top/logo/countries/new/es/tivify/TELERIBERA.png
+Toon Goggles,ES: TOON GOGGLES EN,https://docdog.top/logo/countries/new/es/tivify/TOON_GOGGLES_EN.png
+Telesur HD,ES: TELESAFOR,https://docdog.top/logo/countries/new/es/tivify/TELESAFOR.png
+Cocina,SICNOTI,https://docdog.top/logo/countries/new/es/tivify/SIC_NOTICIAS.png
+CMM TV,BFMTV,https://docdog.top/logo/countries/new/es/tivify/BFM_TV.png
 Televisió de l'Hospitalet,ES: TELEVISIO L'HOSPITALET,https://docdog.top/logo/countries/new/es/tivify/TELEVISIO_LHOSPITALET.png
 Vallès Visió,ES: VALLèS VISIO,https://docdog.top/logo/countries/new/es/tivify/VALLèS_VISIO.png
+Nós Televisión,ES: BDN TELEVISIO,https://docdog.top/logo/countries/new/es/tivify/BDN_TELEVISIO.png
 TV Melilla,ES: TV MELILLA,https://docdog.top/logo/countries/new/es/tivify/TV_MELILLA.png
 Bon Dia TV,ES: BON DIA TV,https://docdog.top/logo/countries/new/es/tivify/BON_DIA_TV.png
+La Ocho Mediterráneo,ES: LA 8 MEDITERRANEO,https://docdog.top/logo/countries/new/es/tivify/LA_8_MEDITERRANEO.png
+Andalucía TV,ES: 7TV ANDALUCIA,https://docdog.top/logo/countries/new/es/tivify/7TV_ANDALUCIA.png
+Canal Terres de l'Ebre,ES: CANAL SIERRA DE CADIZ,https://docdog.top/logo/countries/new/es/tivify/CANAL_SIERRA_DE_CADIZ.png
+Telesur HD,ES: TELEONUBA,https://docdog.top/logo/countries/new/es/tivify/TELEONUBA.png
+Cazavisión,ES: CONDAVISION,https://docdog.top/logo/countries/new/es/tivify/CONDAVISION.png
+Huelva TV,ES: TUYA TV,https://docdog.top/logo/countries/new/es/tivify/TUYA_TV.png
 Negocios TV,Negocios TV.es,https://docdog.top/logo/countries/new/es/tivify/NEGOCIOS_TV.png
+Imás TV,ES: MIJAS 3.40 TV,https://docdog.top/logo/countries/new/es/tivify/MIJAS_3.40_TV.png
+Lleida TV,ES: 9 LA LOMA TV,https://docdog.top/logo/countries/new/es/tivify/9_LA_LOMA_TV.png
+Onda Algeciras TV,ES: ONDA ALGECIRAS,https://docdog.top/logo/countries/new/es/tivify/ONDA_ALGECIRAS.png
+TV Canaria,ES: 101TV ANTEQUERA,https://docdog.top/logo/countries/new/es/tivify/101TV_ANTEQUERA.png
+Escapa TV,ES: ESTEPONA TV,https://docdog.top/logo/countries/new/es/tivify/ESTEPONA_TV.png
+Canal Sur HD,ES: CANAL SAN ROQUE,https://docdog.top/logo/countries/new/es/tivify/CANAL_SAN_ROQUE.png
+TV Canaria,ES: TVM CORDOBA,https://docdog.top/logo/countries/new/es/tivify/TVM_CORDOBA.png
 AXN Movies HD,ES: AXN MOVIES VOS,https://docdog.top/logo/countries/new/es/tivify/AXN_MOVIES_VOS.png
+El Hormiguero,ES: EL PAIS,https://docdog.top/logo/countries/new/es/tivify/EL_PAIS.png
+Fight Box HD,ES: FILM&CO,https://docdog.top/logo/countries/new/es/tivify/FILMCO.png
 Qello concerts,ES: QELLO CONCERTS,https://docdog.top/logo/countries/new/es/tivify/QELLO_CONCERTS.png
+El Hormiguero,ES: EL CONFIDENCIAL,https://docdog.top/logo/countries/new/es/tivify/EL_CONFIDENCIAL.png
+RTP Internacional,ES: ITA | INTERMEDIO,https://docdog.top/logo/countries/new/es/tivify/ITA_INTERMEDIO.png
+La Otra,ES: INGLES TOTAL,https://docdog.top/logo/countries/new/es/tivify/INGLES_TOTAL.png
+Olot TV,ES: GROSS OUT TV,https://docdog.top/logo/countries/new/es/tivify/GROSS_OUT_TV.png
 Vivir con perros,ES: VIVIR CON PERROS,https://docdog.top/logo/countries/new/es/tivify/VIVIR_CON_PERROS.png
 Vivir con gatos,ES: VIVIR CON GATOS,https://docdog.top/logo/countries/new/es/tivify/VIVIR_CON_GATOS.png
+Cine Feel Good,ES: SIN FILTROS,https://docdog.top/logo/countries/new/es/tivify/SIN_FILTROS.png
+STAR Channel HD,ES: ITA | PRINCIPIANTE,https://docdog.top/logo/countries/new/es/tivify/ITA_PRINCIPIANTE.png
+La 7 Valladolid,ES: ITA | AVANZADO,https://docdog.top/logo/countries/new/es/tivify/ITA_AVANZADO.png
+Cocina,ES: COOKING PANDA,https://docdog.top/logo/countries/new/es/tivify/COOKING_PANDA.png
 MMA TV,ES: MMA TV,https://docdog.top/logo/countries/new/es/tivify/MMA_TV.png
+Runtime Series,ES: RUNTIME,https://docdog.top/logo/countries/new/es/tivify/RUNTIME.png
+FIFA+,ES: OAN PLUS,https://docdog.top/logo/countries/new/es/tivify/OAN_PLUS.png
+FIFA+,ES: AWE PLUS,https://docdog.top/logo/countries/new/es/tivify/AWE_PLUS.png
 Runtime Crimen,ES: RUNTIME CRIMEN,https://docdog.top/logo/countries/new/es/tivify/RUNTIME_CRIMEN.png
 Runtime Acción,ES: RUNTIME ACCION,https://docdog.top/logo/countries/new/es/tivify/RUNTIME_ACCION.png
 Runtime Romance,ES: RUNTIME ROMANCE,https://docdog.top/logo/countries/new/es/tivify/RUNTIME_ROMANCE.png
@@ -346,34 +552,463 @@ RunTime Clásicos,ES: RUNTIME CLASICOS,https://docdog.top/logo/countries/new/es/
 Runtime Thriller-Terror,ES: RUNTIME THRILLER + TERROR,https://docdog.top/logo/countries/new/es/tivify/RUNTIME_THRILLER_TERROR.png
 Runtime Comedia,ES: RUNTIME COMEDIA,https://docdog.top/logo/countries/new/es/tivify/RUNTIME_COMEDIA.png
 Runtime Series,ES: RUNTIME SERIES,https://docdog.top/logo/countries/new/es/tivify/RUNTIME_SERIES.png
+Canal Terrassa,ES: CANAL 4 TENERIFE,https://docdog.top/logo/countries/new/es/tivify/CANAL_4_TENERIFE.png
+Caza y Pesca HD,ES: ANA Y LOS 7,https://docdog.top/logo/countries/new/es/tivify/ANA_Y_LOS_7.png
+EuroNews,ES: CURRO JIMENEZ,https://docdog.top/logo/countries/new/es/tivify/CURRO_JIMENEZ.png
+Navarra TV,ES: ALCARRIA TV,https://docdog.top/logo/countries/new/es/tivify/ALCARRIA_TV.png
 Toon Goggles,ES: TOON GOGGLES,https://docdog.top/logo/countries/new/es/tivify/TOON_GOGGLES.png
+Qwest TV,ES: NESTING TV,https://docdog.top/logo/countries/new/es/tivify/NESTING_TV.png
+Sundance TV,ES: AFORTUNADAS TV,https://docdog.top/logo/countries/new/es/tivify/AFORTUNADAS_TV.png
+Información TV,ES: FASHION TV,https://docdog.top/logo/countries/new/es/tivify/FASHION_TV.png
+Pelis Top (Rakuten TV),ES: PARTY TYME KARAOKE INT.,https://docdog.top/logo/countries/new/es/tivify/PARTY_TYME_KARAOKE_INT.png
+Bon Dia TV,ES: ONDA15 TV,https://docdog.top/logo/countries/new/es/tivify/ONDA15_TV.png
+Canal de las Estrellas,ES: DURANGALDEKO TELEBISTA,https://docdog.top/logo/countries/new/es/tivify/DURANGALDEKO_TELEBISTA.png
+NatureTime,ES: NATURE TIME,https://docdog.top/logo/countries/new/es/tivify/NATURE_TIME.png
+Canal Taronja Central,ES: CANAL 4 MANCHA CENTRO,https://docdog.top/logo/countries/new/es/tivify/CANAL_4_MANCHA_CENTRO.png
+M+ Drama HD,ES: VIVE KANAL D DRAMA,https://docdog.top/logo/countries/new/es/tivify/VIVE_KANAL_D_DRAMA.png
+Andalucía TV,ES: DUCKTV,https://docdog.top/logo/countries/new/es/tivify/DUCKTV.png
+TVG,ES: 50TV,https://docdog.top/logo/countries/new/es/tivify/50TV.png
+tlnovelas,ES: TODO NOVELAS,https://docdog.top/logo/countries/new/es/tivify/TODO_NOVELAS.png
+Cuatro HD,ES: 13 CULTURA,https://docdog.top/logo/countries/new/es/tivify/13_CULTURA.png
 RunTime Familia,ES: RUNTIME FAMILIA,https://docdog.top/logo/countries/new/es/tivify/RUNTIME_FAMILIA.png
+Atreseries,ES: WATERBEAR,https://docdog.top/logo/countries/new/es/tivify/WATERBEAR.png
+Canal Sur HD,ES: CANAL RED,https://docdog.top/logo/countries/new/es/tivify/CANAL_RED.png
 TRACE Latina,ES: TRACE LATINA,https://docdog.top/logo/countries/new/es/tivify/TRACE_LATINA.png
 TRACE Urban,ES: TRACE URBAN,https://docdog.top/logo/countries/new/es/tivify/TRACE_URBAN.png
+TRACE Urban,ES: TRACE BRASIL,https://docdog.top/logo/countries/new/es/tivify/TRACE_BRASIL.png
+TRACE Sports Stars,ES: TRACE SPORT STARS,https://docdog.top/logo/countries/new/es/tivify/TRACE_SPORT_STARS.png
+Cines Verdi TV,ES: OFICIOS PERDIDOS,https://docdog.top/logo/countries/new/es/tivify/OFICIOS_PERDIDOS.png
+La 7 Salamanca,ES: LA ABEJA MAYA,https://docdog.top/logo/countries/new/es/tivify/LA_ABEJA_MAYA.png
+Nós Televisión,ES: 4V TELEVISION BOLLULLOS,https://docdog.top/logo/countries/new/es/tivify/4V_TELEVISION_BOLLULLOS.png
+Nós Televisión,ES: 4V TELEVISION VILLAMANRIQUE,https://docdog.top/logo/countries/new/es/tivify/4V_TELEVISION_VILLAMANRIQUE.png
+TV3,ES: RTPI3,https://docdog.top/logo/countries/new/es/tivify/RTPI3.png
 Love the Planet,ES: LOVE THE PLANET,https://docdog.top/logo/countries/new/es/tivify/LOVE_THE_PLANET.png
 Love Wine,ES: LOVE WINE,https://docdog.top/logo/countries/new/es/tivify/LOVE_WINE.png
+Huelva TV,ES: FUEL TV,https://docdog.top/logo/countries/new/es/tivify/FUEL_TV.png
+El Hormiguero,ES: EL GOURMET,https://docdog.top/logo/countries/new/es/tivify/EL_GOURMET.png
+Alquiler HD,ES: TRAILERS,https://docdog.top/logo/countries/new/es/tivify/TRAILERS.png
+CMM TV,ES: CMTV,https://docdog.top/logo/countries/new/es/tivify/CMTV.png
+Cubavisión Internacional HD,ES: CANAL 11 INTERNACIONAL,https://docdog.top/logo/countries/new/es/tivify/CANAL_11_INTERNACIONAL.png
+PT | Canal 11,ES: PORTO CANAL,https://docdog.top/logo/countries/new/es/tivify/PORTO_CANAL.png
+NHK WORLD,ES: NHK WORLD PREMIUM,https://docdog.top/logo/countries/new/es/tivify/NHK_WORLD_PREMIUM.png
+Classica HD,ES: CLIC,https://docdog.top/logo/countries/new/es/tivify/CLIC.png
+AZ Corazón,ES: CORAZON,https://docdog.top/logo/countries/new/es/tivify/CORAZON.png
+RTP Internacional,ES: AZTECA INTERNACIONAL,https://docdog.top/logo/countries/new/es/tivify/AZTECA_INTERNACIONAL.png
+Record,ES: RECORD NEWS,https://docdog.top/logo/countries/new/es/tivify/RECORD_NEWS.png
+Pro TV,ES: PITUFO TV,https://docdog.top/logo/countries/new/es/tivify/PITUFO_TV.png
+BBC Series,ES: WEDO BIG STORIES,https://docdog.top/logo/countries/new/es/tivify/WEDO_BIG_STORIES.png
+Love the Planet,ES: PLANET HORROR,https://docdog.top/logo/countries/new/es/tivify/PLANET_HORROR.png
 Sol Música,SOLMUSC,https://docdog.top/logo/countries/new/es/tivify/SOL_MúSICA.png
 Historia,ES: HISTORIA Y ACTUALIDAD,https://docdog.top/logo/countries/new/es/tivify/HISTORIA_Y_ACTUALIDAD.png
+La 7 Soria,ES: NOW 70'S,https://docdog.top/logo/countries/new/es/tivify/NOW_70S.png
+Canal Hollywood HD,ES: ACTION HOLLYWOOD MOVIES,https://docdog.top/logo/countries/new/es/tivify/ACTION_HOLLYWOOD_MOVIES.png
+La 8 Soria,ES: NOW 80'S,https://docdog.top/logo/countries/new/es/tivify/NOW_80S.png
+Onetoro,ES: NOW ROCK,https://docdog.top/logo/countries/new/es/tivify/NOW_ROCK.png
 LALIGA Inside,ES: LALIGA INSIDE,https://docdog.top/logo/countries/new/es/tivify/LALIGA_INSIDE.png
+AXN Movies HD,XMOEGB,https://docdog.top/logo/countries/new/es/tivify/X-MO.png
+Olot TV,OUTTV,https://docdog.top/logo/countries/new/es/tivify/OUTTV.png
+Atrescine,ES: SATEN | TITANES,https://docdog.top/logo/countries/new/es/tivify/SATEN_TITANES.png
+Telesur HD,ES: SATEN | LUXURY,https://docdog.top/logo/countries/new/es/tivify/SATEN_LUXURY.png
+MTV Classic,ES: SATEN | CLASSY,https://docdog.top/logo/countries/new/es/tivify/SATEN_CLASSY.png
+CGTN Español,ES: SATEN | 100% ESPANOL,https://docdog.top/logo/countries/new/es/tivify/SATEN_100_ESPANOL.png
+Garage TV,ES: 4K TRAVEL TV,https://docdog.top/logo/countries/new/es/tivify/4K_TRAVEL_TV.png
+FIFA+,ES: HERITAGE+,https://docdog.top/logo/countries/new/es/tivify/HERITAGE.png
+Runtime Series,ES: MUNDO SERIES,https://docdog.top/logo/countries/new/es/tivify/MUNDO_SERIES.png
+FOX SPORTS,ES: XTREM SPORTS,https://docdog.top/logo/countries/new/es/tivify/XTREM_SPORTS.png
+Aragón TV,TEVEO,https://docdog.top/logo/countries/new/es/tivify/ARMONIA_TEVE_SANA.png
+Náutica TV,ES: ZUT TV,https://docdog.top/logo/countries/new/es/tivify/ZUT_TV.png
+Historia,ES: FLAMENCO AUDITORIO,https://docdog.top/logo/countries/new/es/tivify/FLAMENCO_AUDITORIO.png
+DE | More than Sports TV,ES: ADVENTURE SPORTS TV,https://docdog.top/logo/countries/new/es/tivify/ADVENTURE_SPORTS_TV.png
 Cines Verdi TV,ES: CINES VERDI TV,https://docdog.top/logo/countries/new/es/tivify/CINES_VERDI_TV.png
+Cine Feel Good,ES: CINE FEEL GOOD VERDI TV,https://docdog.top/logo/countries/new/es/tivify/CINE_FEEL_GOOD_VERDI_TV.png
+AMC Western,ES: CINE WESTERN,https://docdog.top/logo/countries/new/es/tivify/CINE_WESTERN.png
+Al Jazeera English HD,ES: DW ENGLISH,https://docdog.top/logo/countries/new/es/tivify/DW_ENGLISH.png
+DAZN Liga F,ES: ZENLIFE,https://docdog.top/logo/countries/new/es/tivify/ZENLIFE.png
+SkyShowtime,ES: HOMEFUL,https://docdog.top/logo/countries/new/es/tivify/HOMEFUL.png
+Alquiler HD,ES: FAILARMY,https://docdog.top/logo/countries/new/es/tivify/FAILARMY.png
+El club de la comedia,ES: PEOPLE ARE AWESOME,https://docdog.top/logo/countries/new/es/tivify/PEOPLE_ARE_AWESOME.png
+Love the Planet,ES: THE PET COLLECTIVE,https://docdog.top/logo/countries/new/es/tivify/THE_PET_COLLECTIVE.png
+Energy,ES: WEATHERSPY,https://docdog.top/logo/countries/new/es/tivify/WEATHERSPY.png
 Tennis Channel,ES: TENNIS CHANNEL,https://docdog.top/logo/countries/new/es/tivify/TENNIS_CHANNEL.png
+Factoría de Ficción,ES: PLANETA DE CINE,https://docdog.top/logo/countries/new/es/tivify/PLANETA_DE_CINE.png
+Escapa TV,ESCAPA,https://docdog.top/logo/countries/new/es/tivify/ESCAPATV.png
 Historia,ES: HISTORIA Y VIDA,https://docdog.top/logo/countries/new/es/tivify/HISTORIA_Y_VIDA.png
+Surf Channel,ES: SURF CHANNEL TV,https://docdog.top/logo/countries/new/es/tivify/SURF_CHANNEL_TV.png
+MyPadel TV,ES: MY PADEL TV,https://docdog.top/logo/countries/new/es/tivify/MY_PADEL_TV.png
+Lolly Kids,ES: LINGOKIDS,https://docdog.top/logo/countries/new/es/tivify/LINGOKIDS.png
+Aragón TV,ES: VAUGHAN TV,https://docdog.top/logo/countries/new/es/tivify/VAUGHAN_TV.png
+Stingray Classica,ES: STINGRAY GREATEST HITS,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_GREATEST_HITS.png
+Stingray Classica,SMUS06D,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_REMEMBER_THE_80S.png
+Stingray Classica,SM040,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_SMOOTH_JAZZ.png
+Stingray Classica,SMUS07,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_NOTHIN_BUT_90S.png
+Stingray Classica,ES: STINGRAY TODAY'S LATIN POP,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_TODAYS_LATIN_POP.png
+Stingray Classica,SM022,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_THE_SPA.png
+Stingray Classica,SMESP34,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_CLASSIC_ROCK.png
+Stingray Classica,SM037,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_EASY_LISTENING.png
+Stingray Classica,SMUS05D,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_FLASHBACK_70S.png
+Stingray Classica,SMESP51,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_ROMANCE_LATINO.png
+Stingray Classica,SMUS27,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_SOUL_STORM.png
+Stingray Classica,SMESP04,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_REGGAETON.png
+Stingray Classica,ES: STINGRAY DANCEFLOOR FILLERS,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_DANCEFLOOR_FILLERS.png
+Stingray Classica,ES: STINGRAY EXITOS LATINOS,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_EXITOS_LATINOS.png
+Sony One Hits Acción,ES: STINGRAY TOTAL HITS SPAIN,https://docdog.top/logo/countries/new/es/tivify/STINGRAY_TOTAL_HITS_SPAIN.png
+UK | Sky Sports Football,ES: EUROPEAN LEAGUE OF FOOTBALL,https://docdog.top/logo/countries/new/es/tivify/EUROPEAN_LEAGUE_OF_FOOTBALL.png
+Bloomberg TV Europe,ES: BLOOMBERG ORIGINALS,https://docdog.top/logo/countries/new/es/tivify/BLOOMBERG_ORIGINALS.png
+Nós Televisión,ES: BLOOMBERG TELEVISION,https://docdog.top/logo/countries/new/es/tivify/BLOOMBERG_TELEVISION.png
+Cazavisión,ES: ECUAVISA,https://docdog.top/logo/countries/new/es/tivify/ECUAVISA.png
 Historia,ES: CRIMEN & HISTORIA,https://docdog.top/logo/countries/new/es/tivify/CRIMEN_HISTORIA.png
+Gol Classics,ES: CARTOON CLASSICS,https://docdog.top/logo/countries/new/es/tivify/CARTOON_CLASSICS.png
+Onetoro,ES: DOCTOR WHO,https://docdog.top/logo/countries/new/es/tivify/DOCTOR_WHO.png
+BBC Food,ES: BBC DRAMA,https://docdog.top/logo/countries/new/es/tivify/BBC_DRAMA.png
+BBC Top Gear,ES: TOP GEAR,https://docdog.top/logo/countries/new/es/tivify/TOP_GEAR.png
+Atrescine,ES: NATURESCAPE,https://docdog.top/logo/countries/new/es/tivify/NATURESCAPE.png
+DAZN 1 HD,ES: DJAZZ,https://docdog.top/logo/countries/new/es/tivify/DJAZZ.png
+Sol Música,ES: MOVIE MUSIC,https://docdog.top/logo/countries/new/es/tivify/MOVIE_MUSIC.png
+Levante TV,ES: SATEN TV | PROMO,https://docdog.top/logo/countries/new/es/tivify/SATEN_TV_PROMO.png
+DAZN LaLiga 3,ES: ACTUALIDAD 360,https://docdog.top/logo/countries/new/es/tivify/ACTUALIDAD_360.png
 Viajes y Sabores,ES: VIAJES Y SABORES,https://docdog.top/logo/countries/new/es/tivify/VIAJES_Y_SABORES.png
+Calle 13 HD,ES: 13 POP,https://docdog.top/logo/countries/new/es/tivify/13_POP.png
+Imás TV,ES: INFAST,https://docdog.top/logo/countries/new/es/tivify/INFAST.png
+Onetoro,ES: INWONDER,https://docdog.top/logo/countries/new/es/tivify/INWONDER.png
+Torolé TV,ES: INTROUBLE,https://docdog.top/logo/countries/new/es/tivify/INTROUBLE.png
+Baby TV,ES: DFB PLAY TV,https://docdog.top/logo/countries/new/es/tivify/DFB_PLAY_TV.png
+1+1 International,ES: 1+1 NEWS,https://docdog.top/logo/countries/new/es/tivify/1_1_NEWS.png
 Qwest TV,QWEST,https://docdog.top/logo/countries/new/es/tivify/QWEST_TV.png
+1+1 International,ES: 1+1 TRAVEL,https://docdog.top/logo/countries/new/es/tivify/1_1_TRAVEL.png
+SX3 Catalunya,ES: XATAKA,https://docdog.top/logo/countries/new/es/tivify/XATAKA.png
+La 7 Rioja,ES: AGUILA ROJA,https://docdog.top/logo/countries/new/es/tivify/AGUILA_ROJA.png
+DAZN MotoGP,ES: DAZN EVENTOS EPG,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 1,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 2 HD,ES: DAZN EVENT 2,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 3 HD,ES: DAZN EVENT 3,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 4 HD,ES: DAZN EVENT 4,https://docdog.top/logo/countries/spain/movistar/dazn.png
+PT | DAZN 5,ES: DAZN EVENT 5,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 6,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 7,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 8,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 9,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 10,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 11,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 12,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 13,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 14,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 15,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 16,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 17,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 18,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 19,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 2 HD,ES: DAZN EVENT 20,https://docdog.top/logo/countries/spain/movistar/dazn.png
+DAZN 1 HD,ES: DAZN EVENT 21,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 22,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 23,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 24,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 25,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 26,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 27,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 28,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 29,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 30,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 31,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 32,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 33,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 34,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 35,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 36,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 37,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 38,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 39,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 4 HD,ES: DAZN EVENT 40,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 41,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 42,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 43,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 4 HD,ES: DAZN EVENT 44,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 4 HD,ES: DAZN EVENT 45,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 4 HD,ES: DAZN EVENT 46,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 4 HD,ES: DAZN EVENT 47,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 4 HD,ES: DAZN EVENT 48,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 4 HD,ES: DAZN EVENT 49,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 50,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 51,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 2 HD,ES: DAZN EVENT 52,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 3 HD,ES: DAZN EVENT 53,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 4 HD,ES: DAZN EVENT 54,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 55,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 56,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 57,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 58,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 59,https://docdog.top/logo/countries/new/es/other/DAZN.png
+DAZN 1 HD,ES: DAZN EVENT 60,https://docdog.top/logo/countries/new/es/other/DAZN.png
+HBO Max Avances,ES: HBO MAX EVENTOS EPG,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+La 1 HD,ES: MAX PPV 1,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+La 2,ES: MAX PPV 2,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+M+ Vamos 3,ES: MAX PPV 3,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+FR · beIN SPORTS MAX 4,ES: MAX PPV 4,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+FR · beIN SPORTS MAX 5,ES: MAX PPV 5,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+FR · beIN SPORTS MAX 6,ES: MAX PPV 6,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+FR · beIN SPORTS MAX 7,ES: MAX PPV 7,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+FR · beIN SPORTS MAX 8,ES: MAX PPV 8,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+FR · beIN SPORTS MAX 9,ES: MAX PPV 9,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+FR · beIN SPORTS MAX 10,ES: MAX PPV 10,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 11,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 12,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+Calle 13 HD,ES: MAX PPV 13,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 14,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 15,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+Sky Sports 16,ES: MAX PPV 16,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 17,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 18,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 19,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 20,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 21,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 22,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 23,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 24,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 25,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 26,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 27,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 28,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 29,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 30,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 31,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 32,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 33,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 34,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 35,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 36,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 37,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 38,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 39,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 40,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 41,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 42,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 43,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 44,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 45,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 46,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 47,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 48,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 49,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+HBO Max Avances,ES: MAX PPV 50,https://docdog.top/logo/countries/new/es/other/HBO_MAX.png
+M+ Estrenos HD,ES: LALIGA+ EVENTOS EPG,https://docdog.top/logo/countries/new/es/other/LLPLUS.png
+1+1 International,ES: LALIGA+ EVENTO 1,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ Vamos 2,ES: LALIGA+ EVENTO 2,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 3 HD,ES: LALIGA+ EVENTO 3,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 4,ES: LALIGA+ EVENTO 4,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 5,ES: LALIGA+ EVENTO 5,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 6,ES: LALIGA+ EVENTO 6,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+LaLiga TV Hypermotion 7,ES: LALIGA+ EVENTO 7,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+LaLiga TV Hypermotion 8,ES: LALIGA+ EVENTO 8,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+LaLiga TV Hypermotion 9,ES: LALIGA+ EVENTO 9,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+LaLiga TV Hypermotion 10,ES: LALIGA+ EVENTO 10,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+LaLiga TV Hypermotion 11,ES: LALIGA+ EVENTO 11,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+LaLiga TV Hypermotion 12,ES: LALIGA+ EVENTO 12,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 3 HD,ES: LALIGA+ EVENTO 13,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 4,ES: LALIGA+ EVENTO 14,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 5,ES: LALIGA+ EVENTO 15,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 6,ES: LALIGA+ EVENTO 16,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ Estrenos HD,ES: LALIGA+ EVENTO 17,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ Estrenos HD,ES: LALIGA+ EVENTO 18,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ Estrenos HD,ES: LALIGA+ EVENTO 19,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ Estrenos HD,ES: LALIGA+ EVENTO 20,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ Estrenos HD,ES: LALIGA+ EVENTO 21,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ Estrenos HD,ES: LALIGA+ EVENTO 22,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 3 HD,ES: LALIGA+ EVENTO 23,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 4,ES: LALIGA+ EVENTO 24,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+M+ LaLiga 5,ES: LALIGA+ EVENTO 25,https://docdog.top/logo/countries/spain/movistar/LLPLUS.png
+DAZN 1 HD,ES: DAZN NBA 01,https://docdog.top/logo/countries/es/NBA.png
+DAZN 2 HD,ES: DAZN NBA 02,https://docdog.top/logo/countries/es/NBA.png
+DAZN 3 HD,ES: DAZN NBA 03,https://docdog.top/logo/countries/es/NBA.png
+DAZN 4 HD,ES: DAZN NBA 04,https://docdog.top/logo/countries/es/NBA.png
+DAZN LaLiga 5,ES: DAZN NBA 05,https://docdog.top/logo/countries/es/NBA.png
+DAZN 1 BAR,ES: DAZN NBA 06,https://docdog.top/logo/countries/es/NBA.png
+DAZN 1 BAR,ES: DAZN NBA 07,https://docdog.top/logo/countries/es/NBA.png
+DAZN 1 BAR,ES: DAZN NBA 08,https://docdog.top/logo/countries/es/NBA.png
+DAZN 1 BAR,ES: DAZN NBA 09,https://docdog.top/logo/countries/es/NBA.png
+DAZN 1 HD,ES: DAZN NBA 10,https://docdog.top/logo/countries/es/NBA.png
+1+1 International,ES: NBA REPLAY 1 (EN),https://docdog.top/logo/countries/spain/movistar/nba.png
+La 2 Cataluña,ES: NBA REPLAY 2 (EN),https://docdog.top/logo/countries/spain/movistar/nba.png
+Comedia atresplayer,ES: NBA REPLAY 3 (EN),https://docdog.top/logo/countries/spain/movistar/nba.png
+Comedia atresplayer,ES: NBA REPLAY 4 (EN),https://docdog.top/logo/countries/spain/movistar/nba.png
+Comedia atresplayer,ES: NBA REPLAY 5 (EN),https://docdog.top/logo/countries/spain/movistar/nba.png
+DAZN Liga F,ES: LIGA F EVENT  1,https://docdog.top/logo/countries/spain/movistar/ligaF.png
+DAZN Liga F 2,ES: LIGA F EVENT  2,https://docdog.top/logo/countries/spain/movistar/ligaF.png
+DAZN Liga F 3,ES: LIGA F EVENT  3,https://docdog.top/logo/countries/spain/movistar/ligaF.png
+DAZN Liga F 4,ES: LIGA F EVENT  4,https://docdog.top/logo/countries/spain/movistar/ligaF.png
+DAZN Liga F,ES: LIGA F EVENT  5,https://docdog.top/logo/countries/spain/movistar/ligaF.png
+DAZN F1 HD,ES: DAZN NFL 01,https://docdog.top/logo/countries/es/NFL.png
+DAZN 2 HD,ES: DAZN NFL 02,https://docdog.top/logo/countries/es/NFL.png
+DAZN 3 HD,ES: DAZN NFL 03,https://docdog.top/logo/countries/es/NFL.png
+DAZN 4 HD,ES: DAZN NFL 04,https://docdog.top/logo/countries/es/NFL.png
+DAZN F1 HD,ES: DAZN NFL 05,https://docdog.top/logo/countries/es/NFL.png
+DAZN F1 HD,ES: DAZN NFL 06,https://docdog.top/logo/countries/es/NFL.png
+DAZN F1 HD,ES: DAZN NFL 07,https://docdog.top/logo/countries/es/NFL.png
+DAZN F1 HD,ES: DAZN NFL 08,https://docdog.top/logo/countries/es/NFL.png
+DAZN F1 HD,ES: DAZN NFL 09,https://docdog.top/logo/countries/es/NFL.png
+DAZN F1 HD,ES: DAZN NFL 10,https://docdog.top/logo/countries/es/NFL.png
+Fight Box HD,ES: UFC FIGHT PASS,https://docdog.top/logo/countries/es/UFC_FIGHT_PASS.png
+Levante TV,ES: EVENTO 01,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+ESPN 2,ES: EVENTO 02,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+Punt 3,ES: EVENTO 03,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+ESPN 4,ES: EVENTO 04,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+Levante TV,ES: EVENTO 05,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+Levante TV,ES: EVENTO 06,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+Veo7,ES: EVENTO 07,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+Levante TV,ES: EVENTO 08,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+Levante TV,ES: EVENTO 09,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+UK | TNT Sports 10,ES: EVENTO 10,https://docdog.top/logo/countries/es/EVENTO_DAYS.png
+PT | Sport TV 1,ES: RFEF TV 1 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+Navarra TV 2,ES: RFEF TV 2 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+PT | Sport TV 3,ES: RFEF TV 3 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+PT | Sport TV 4,ES: RFEF TV 4 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+PT | Sport TV 5,ES: RFEF TV 5 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+PT | Sport TV 6,ES: RFEF TV 6 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+PT | Sport TV 7,ES: RFEF TV 7 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+Horse TV,ES: RFEF TV 8 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+El 9 TV,ES: RFEF TV 9 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+Horse TV,ES: RFEF TV 10 FHD,https://docdog.top/logo/countries/spain/movistar/RFEF.png
+TAC12,CH1,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/11ffc0ea325540219ca78995bade2c75
+TAC12,CH2,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/11ffc0ea325540219ca78995bade2c75
+Calle 13 HD,CH3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png
+TV Chile,CH4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Chile.png
+TV Chile,CH5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Chile.png
+M6,CH6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png
+Elche 7 TV,CH7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Elche%207%20TV.png
+TV Chile,CH8,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Chile.png
+TV Chile,CH9,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Chile.png
+TAC12,CH10,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/11ffc0ea325540219ca78995bade2c75
+TAC12,CH11,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/11ffc0ea325540219ca78995bade2c75
+TAC12,CH12,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/11ffc0ea325540219ca78995bade2c75
+Canal Cocina,ES: CANAL INVITADO,https://docdog.top/logo/countries/new/es/vodafone/CANAL_INVITADO.png
+Canal FlixOlé 2,ES: CANAL INVITADO 2,https://docdog.top/logo/countries/new/es/vodafone/CANAL_INVITADO_2.png
 AMC HD,AMC+ Connect,https://docdog.top/logo/countries/new/es/vodafone/AMC_CONNECT.png
 AMC HD,AMC Anime,https://docdog.top/logo/countries/new/es/vodafone/AMC_ANIME.png
 BBC Series,BBC SERIES,https://docdog.top/logo/countries/new/es/vodafone/BBC_SERIES.png
 Escapa TV,Escapa TV,https://docdog.top/logo/countries/new/es/vodafone/ESCAPA_TV.png
+Cuéntame,ES: BUENVIAJE,https://docdog.top/logo/countries/new/es/vodafone/BUENVIAJE.png
 BBC Top Gear,BBC TOP GEAR,https://docdog.top/logo/countries/new/es/vodafone/BBC_TOP_GEAR.png
+Escapa TV,ES: DECASA,https://docdog.top/logo/countries/new/es/vodafone/DECASA.png
+MyPadel TV,ES: MYZEN TV,https://docdog.top/logo/countries/new/es/vodafone/MYZEN_TV.png
+Canal Terrassa,ES: CANAL GALERIA,https://docdog.top/logo/countries/new/es/vodafone/CANAL_GALERIA.png
 CNN International Europe,CNN Int.,https://docdog.top/logo/countries/new/es/vodafone/CNN_INTERNATIONAL_EUROPE.png
 CNBC Europe HD,CNBC Europe,https://docdog.top/logo/countries/new/es/vodafone/CNBC_EUROPE_HD.png
 Bloomberg TV Europe,Bloomberg Europe TV,https://docdog.top/logo/countries/new/es/vodafone/BLOOMBERG_TV_EUROPE.png
 France 24 (en Francais),France 24 (en Francais),https://docdog.top/logo/countries/new/es/vodafone/FRANCE_24.png
 EWTN,EWTN,https://docdog.top/logo/countries/new/es/vodafone/EWTN.png
+1+1 International,inteua.movistarplus.es,https://docdog.top/logo/countries/new/es/vodafone/1_1.png
+FOX SPORTS,ES: EXTREME SPORTS,https://docdog.top/logo/countries/new/es/vodafone/EXTREME_SPORTS.png
 Surf Channel,ES: SURF CHANNEL,https://docdog.top/logo/countries/new/es/vodafone/SURF_CHANNEL.png
+Nós Televisión,ES: SEVILLA FC TELEVISION,https://docdog.top/logo/countries/new/es/vodafone/SEVILLA_FC_TELEVISION.png
 TRECE,ES: EL TRECE,https://docdog.top/logo/countries/new/es/vodafone/EL_TRECE.png
+VE PLUS TV,ES: VE PLUS,https://docdog.top/logo/countries/new/es/vodafone/VE_PLUS.png
 TV Chile,chile.movistarplus.es,https://docdog.top/logo/countries/new/es/vodafone/TV_CHILE.png
 Cubavisión Internacional HD,Cubavision Internacional,https://docdog.top/logo/countries/new/es/vodafone/CUBAVISION_INTERNACIONAL_HD.png
+Deutsche W,ES: DEUTSCHE WELLE,https://docdog.top/logo/countries/new/es/vodafone/DEUTSCHE_WELLE.png
 TV5 Monde Europe HD,TV5MONDE,https://docdog.top/logo/countries/new/es/vodafone/TV5_MONDE_EUROPE_HD.png
+Al cielo con ella,ES: AL AOULA,https://docdog.top/logo/countries/new/es/vodafone/AL_AOULA.png
+TVG,ES: TVP,https://docdog.top/logo/countries/new/es/vodafone/TVP.png
 Pro TV,ES: PRO TV,https://docdog.top/logo/countries/new/es/vodafone/PRO_TV.png
+BBC History,XXX: HUSTLER HD,https://docdog.top/logo/countries/xxx/adult.png
+BBC Lifestyle,XXX: BLUE HUSTLER,https://docdog.top/logo/countries/xxx/adult.png
+Vivid TV,XXX: VIVID RED HD,https://docdog.top/logo/countries/xxx/adult.png
+Horse TV,XXX: DORCEL TV,https://docdog.top/logo/countries/xxx/adult.png
+M+ Deportes 2 HD,XXX: DORCEL XXX,https://docdog.top/logo/countries/xxx/adult.png
+Baby TV,XXX: BABES TV,https://docdog.top/logo/countries/xxx/adult.png
+Arirang TV HD,XXX: RUSSIAN NIGHT,https://docdog.top/logo/countries/xxx/adult.png
+HBO Max Avances,XXX: XY MAX,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV ANAL,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV ASIAN,https://docdog.top/logo/countries/xxx/adult.png
+MTV Classic,XXX: MCTV BIG ASS,https://docdog.top/logo/countries/xxx/adult.png
+TV Berguedà,XXX: MCTV BIG DICK,https://docdog.top/logo/countries/xxx/adult.png
+AXN Movies HD,XXX: MCTV BIG TITS,https://docdog.top/logo/countries/xxx/adult.png
+PTV Linares,XXX: MCTV BLONDE,https://docdog.top/logo/countries/xxx/adult.png
+TVR Rioja,XXX: MCTV BLOWJOB,https://docdog.top/logo/countries/xxx/adult.png
+TV Berguedà,XXX: MCTV BRUNETTE,https://docdog.top/logo/countries/xxx/adult.png
+MTV Classic,XXX: MCTV COMPILATION,https://docdog.top/logo/countries/xxx/adult.png
+MTV Classic,XXX: MCTV CUCKOLD,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV FETISH,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV GANGBANG,https://docdog.top/logo/countries/xxx/adult.png
+SX3 Catalunya,XXX: MCTV GAY,https://docdog.top/logo/countries/xxx/adult.png
+PTV Linares,XXX: MCTV HARDCORE,https://docdog.top/logo/countries/xxx/adult.png
+Aragón TV Internacional,XXX: MCTV INTERRACIAL,https://docdog.top/logo/countries/xxx/adult.png
+TRACE Latina,XXX: MCTV LATINA,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV LESBIAN,https://docdog.top/logo/countries/xxx/adult.png
+Mezzo Live HD,XXX: MCTV LIVE CAMS,https://docdog.top/logo/countries/xxx/adult.png
+TV Melilla,XXX: MCTV MILF,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV PORNSTAR,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV POV,https://docdog.top/logo/countries/xxx/adult.png
+TVR Rioja,XXX: MCTV ROUGH,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV RUSSIAN,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV TEEN,https://docdog.top/logo/countries/xxx/adult.png
+AMC Crime,XXX: MCTV THREESOME,https://docdog.top/logo/countries/xxx/adult.png
+MTV España,XXX: MCTV WOMAN,https://docdog.top/logo/countries/xxx/adult.png
+Banyoles TV,XXX: EXTASY - LEO TV,https://docdog.top/logo/countries/xxx/adult.png
+À Punt,XXX: DAY WITH A PORNSTAR,https://docdog.top/logo/countries/xxx/adult.png
+NFL Network,XXX: DDF NETWORK,https://docdog.top/logo/countries/xxx/adult.png
+DE | Auto Motor Sport Ch.,XXX: DAUGHTER SWAP,https://docdog.top/logo/countries/xxx/adult.png
+Mr Bean Animated,XXX: TRUE AMATEURS,https://docdog.top/logo/countries/xxx/adult.png
+M+ Baloncesto,XXX: PUBLIC AGENT,https://docdog.top/logo/countries/xxx/adult.png
+M+ PopUp,XXX: FAMILY HOOKUPS,https://docdog.top/logo/countries/xxx/adult.png
+M+ Estrenos HD,XXX: FAMILY STROKES,https://docdog.top/logo/countries/xxx/adult.png
+TRACE Latina,XXX: FAKE TAXI,https://docdog.top/logo/countries/xxx/adult.png
+Telecinco HD,XXX: LITTLE CAPRICE,https://docdog.top/logo/countries/xxx/adult.png
+M+ LaLiga HD,XXX: MIA KHALIFA,https://docdog.top/logo/countries/xxx/adult.png
+La 2,XXX: ALBA 2,https://docdog.top/logo/countries/xxx/adult.png
+La 2,XXX: ALBA XXX 2,https://docdog.top/logo/countries/xxx/adult.png
+DAZN LaLiga 3,XXX: ALBA XXX 3,https://docdog.top/logo/countries/xxx/adult.png
+DAZN LaLiga 4,XXX: ALBA XXX 4,https://docdog.top/logo/countries/xxx/adult.png
+M+ LaLiga 6,XXX: ALBA XXX 6,https://docdog.top/logo/countries/xxx/adult.png
+M+ LaLiga 2 HDR,XXX: ALBA XXX HD2,https://docdog.top/logo/countries/xxx/adult.png
+La 7 Burgos,XXX: BANGBROS,https://docdog.top/logo/countries/xxx/adult.png
+El club de la comedia,XXX: BLACKED,https://docdog.top/logo/countries/xxx/adult.png
+24 Horas,XXX: BRAZZERS,https://docdog.top/logo/countries/xxx/adult.png
+ESPN Deportes,XXX: DORCEL,https://docdog.top/logo/countries/xxx/adult.png
+FR · Eurosport 1,XXX: ERO X,https://docdog.top/logo/countries/xxx/adult.png
+Nautical Channel,XXX: EVIL ANGEL,https://docdog.top/logo/countries/xxx/adult.png
+Náutica TV,XXX: EXXXOTICA TV,https://docdog.top/logo/countries/xxx/adult.png
+Aragón TV,XXX: FAKE AGENT,https://docdog.top/logo/countries/xxx/adult.png
+MyPadel TV,XXX: GAY ADULT TV,https://docdog.top/logo/countries/xxx/adult.png
+CNBC Europe HD,XXX: FRENCH LOVER EUROPE,https://docdog.top/logo/countries/xxx/adult.png
+Cugat Media,XXX: GAY MAX HD,https://docdog.top/logo/countries/xxx/adult.png
+RunTime Familia,XXX: MY PERVY FAMILY,https://docdog.top/logo/countries/xxx/adult.png
+La 1 HD,XXX: NEO GAY 1,https://docdog.top/logo/countries/xxx/adult.png
+MTV Classic,XXX: PASSIE XXX,https://docdog.top/logo/countries/xxx/adult.png
+FOX SPORTS 3,XXX: PINK EROTIC 3,https://docdog.top/logo/countries/xxx/adult.png
+FOX SPORTS,XXX: PRIVATE,https://docdog.top/logo/countries/xxx/adult.png
+Pirineus TV,XXX: PRIVE TV,https://docdog.top/logo/countries/xxx/adult.png
+La Promesa,XXX: PURETABOO,https://docdog.top/logo/countries/xxx/adult.png
+DE | sportdigital,XXX: REDLIGHT,https://docdog.top/logo/countries/xxx/adult.png
+Caracol TV,XXX: SECRET CIRCLE TV,https://docdog.top/logo/countries/xxx/adult.png
+M+ Estrenos HD,XXX: SEXTO SENSO,https://docdog.top/logo/countries/xxx/adult.png
+El Toro TV,XXX: TABOO,https://docdog.top/logo/countries/xxx/adult.png
+Vivid TV,XXX: VIVIDRED XXX,https://docdog.top/logo/countries/xxx/adult.png
+La Sexta HD,XXX: 21 SEXTURY,https://docdog.top/logo/countries/xxx/adult.png
+TCM HD,XXX: CUM 4K UHD,https://docdog.top/logo/countries/xxx/adult.png
+DE | sportdigital,XXX: REDLIGHT HD,https://docdog.top/logo/countries/xxx/adult.png
+M+ Indie HD,XXX: PENTHOUSE QUICKIES,https://docdog.top/logo/countries/xxx/adult.png
+M+ Golf HD,XXX: PENTHOUSE GOLD,https://docdog.top/logo/countries/xxx/adult.png
+DE | eSports One,XXX: SUPER ONE HD,https://docdog.top/logo/countries/xxx/adult.png
+FIFA+,XXX: XY PLUS,https://docdog.top/logo/countries/xxx/adult.png
+DAZN LaLiga 5,XXX: ALBA XXX 5,https://docdog.top/logo/countries/xxx/adult.png
+M+ Acción HD,XXX: PENTHOUSE PASSION,https://docdog.top/logo/countries/xxx/adult.png
+Extreme Channel,XXX: SEXTREME,https://docdog.top/logo/countries/xxx/adult.png
+SX3 Catalunya,XXX: XXL,https://docdog.top/logo/countries/xxx/adult.png
+etb1 euskera,XXX: DUSK,https://docdog.top/logo/countries/xxx/adult.png
+LaLiga TV Hypermotion 7,XXX: MIAMI TV JENNY LIVE [NOT 24/7],https://docdog.top/logo/countries/xxx/adult.png
+FR · Eurosport 1,XXX:  ERO XXX HD,https://docdog.top/logo/countries/xxx/adult.png
+DE | Sky Sport Mix,XXX:  XY MIX,https://docdog.top/logo/countries/xxx/adult.png
+Garage TV,XXX:  ROUGE TV,https://docdog.top/logo/countries/xxx/adult.png
+Betis TV,XXX:   BEATE UHSE.TV,https://docdog.top/logo/countries/xxx/adult.png
+La 1 HD,XXX:  ALBA XXX 1,https://docdog.top/logo/countries/xxx/adult.png
+M+ LaLiga 2 HDR,XXX:  ALBA XXX HD1,https://docdog.top/logo/countries/xxx/adult.png
+FOX SPORTS,XXX:  HOT FHD,https://docdog.top/logo/countries/xxx/adult.png
+La Revuelta,XXX:  O LA LA,https://docdog.top/logo/countries/xxx/adult.png
+PT | Eurosport 1 HD,XXX:  PINK EROTIC 1,https://docdog.top/logo/countries/xxx/adult.png
+Pro TV,XXX:  PINK O TV,https://docdog.top/logo/countries/xxx/adult.png
+Playboy TV,XXX:  PLAYBOY,https://docdog.top/logo/countries/xxx/adult.png
+La Sexta HD,XXX:  SEXY HOT,https://docdog.top/logo/countries/xxx/adult.png
+AXN Movies HD,XXX:  VENUS,https://docdog.top/logo/countries/xxx/adult.png
+HBO Max Avances,XXX:  XY MAX HD,https://docdog.top/logo/countries/xxx/adult.png
+DE | Sky Sport Mix,XXX:  XY MIX HD,https://docdog.top/logo/countries/xxx/adult.png
+La 7 Valladolid,XXX:  MEIDEN VAN HOLLAND HARD,https://docdog.top/logo/countries/xxx/adult.png
+Levante TV,XXX:  CENTO X CENTO TV,https://docdog.top/logo/countries/xxx/adult.png
+SX3 Catalunya,XXX:  TINY 4K UHD,https://docdog.top/logo/countries/xxx/adult.png
