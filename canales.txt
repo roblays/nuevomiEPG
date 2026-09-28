@@ -997,7 +997,6 @@ DE | Sky Sport Mix,XXX:  XY MIX HD,https://docdog.top/logo/countries/xxx/adult.p
 La 7 Valladolid,XXX:  MEIDEN VAN HOLLAND HARD,https://docdog.top/logo/countries/xxx/adult.png
 Levante TV,XXX:  CENTO X CENTO TV,https://docdog.top/logo/countries/xxx/adult.png
 SX3 Catalunya,XXX:  TINY 4K UHD,https://docdog.top/logo/countries/xxx/adult.png
-
 # --- RAKUTEN TV corregido v3: fuente DobleM exacta o fallback más parecido ---
 Pelis Top (Rakuten TV),ES: RAKUTENTV PELIS TOP,https://docdog.top/logo/countries/new/es/RAKUTENTV_PELIS_TOP.png
 Películas de Acción (Rakuten TV),ES: RAKUTENTV ACCION,https://docdog.top/logo/countries/new/es/RAKUTENTV_ACCION.png
