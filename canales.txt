@@ -128,7 +128,6 @@ DAZN 3 HD,dazn3.movistarplus.es,https://docdog.top/logo/countries/new/es/movista
 DAZN 4 HD,dazn4.movistarplus.es,https://docdog.top/logo/countries/new/es/movistar/DAZN_4.png
 DAZN 1 HD,m1sd.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
 NFL Network,NFL Network,https://docdog.top/logo/countries/new/es/other/NFL_NETWORK.png
-Red Bull TV (Rakuten TV),Red Bull TV,https://docdog.top/logo/countries/new/es/other/RED_BULL_TV.png
 Unbeaten,Unbeaten,https://docdog.top/logo/countries/new/es/other/UNBEATEN.png
 M+ Vamos HD,vamosd.movistarplus.es,https://docdog.top/logo/countries/spain/movistar/M_Vamos.png
 M+ Vamos HD,M+.Vamos.es,https://docdog.top/logo/countries/spain/movistar/M_Vamos.png
@@ -292,18 +291,6 @@ La 7 Salamanca,ES: CASTILLA LA MANCHA,https://docdog.top/logo/countries/spain/mo
 Onetoro,OneToro TV,https://docdog.top/logo/countries/spain/movistar/one_toro.png
 Onetoro,Onetoro TV,https://docdog.top/logo/countries/spain/movistar/one_toro.png
 Torolé TV,ES: TOROLE TV,https://docdog.top/logo/countries/spain/movistar/torole_tv.png
-Pelis Top (Rakuten TV),ES: RAKUTENTV PELIS TOP,https://docdog.top/logo/countries/new/es/RAKUTENTV_PELIS_TOP.png
-Acción (Rakuten TV),ES: RAKUTENTV ACCION,https://docdog.top/logo/countries/new/es/RAKUTENTV_ACCION.png
-Comedias (Rakuten TV),ES: RAKUTENTV COMEDIA,https://docdog.top/logo/countries/new/es/RAKUTENTV_COMEDIA.png
-Dramas (Rakuten TV),ES: RAKUTENTV DRAMA,https://docdog.top/logo/countries/new/es/RAKUTENTV_DRAMA.png
-Películas Románticas (Rakuten TV),ES: RAKUTENTV PELICULAS ROMANTICAS,https://docdog.top/logo/countries/new/es/RAKUTENTV_PELICULAS_ROMANTICAS.png
-Cine Español (Rakuten TV),ES: RAKUTENTV CINE ESPANOL,https://docdog.top/logo/countries/new/es/RAKUTENTV_CINE_ESPANOL.png
-Thrillers (Rakuten TV),ES: RAKUTENTV THRILLERS,https://docdog.top/logo/countries/new/es/RAKUTENTV_THRILLERS.png
-Cine Friki,ES: RAKUTENTV CINE FRIKI,https://docdog.top/logo/countries/new/es/RAKUTENTV_CINE_FRIKI.png
-DARK,ES: RAKUTENTV DARK MATTER,https://docdog.top/logo/countries/new/es/RAKUTENTV_DARK_MATTER.png
-Pelis Top (Rakuten TV),ES: RAKUTENTV GRJNGO,https://docdog.top/logo/countries/new/es/RAKUTENTV_GRJNGO.png
-Todo Crimen (Rakuten TV),ES: RAKUTENTV CRIMEN,https://docdog.top/logo/countries/new/es/RAKUTENTV_CRIMEN.png
-Atrescine,ES: RAKUTENTV FILMRISE SCI-FI,https://docdog.top/logo/countries/new/es/RAKUTENTV_FILMRISE_SCI-FI.png
 24 Horas,24h HD,https://docdog.top/logo/countries/new/es/avatel/24H.png
 La 7 Rioja,7 RM,https://docdog.top/logo/countries/new/es/avatel/7_RM.png
 À Punt,A Punt HD,https://docdog.top/logo/countries/new/es/avatel/A_PUNT.png
@@ -465,7 +452,6 @@ TPA7 Asturias,TPA7,https://docdog.top/logo/countries/new/es/tivify/TPA7.png
 AXN HD,AXN.es,https://docdog.top/logo/countries/new/es/tivify/AXN.png
 24 Horas,ES: CANAL 24 HORAS,https://docdog.top/logo/countries/new/es/tivify/CANAL_24_HORAS.png
 Factoría de Ficción,FDFS,https://docdog.top/logo/countries/new/es/tivify/FDF.png
-Red Bull TV (Rakuten TV),ES: RED BULL TV,https://docdog.top/logo/countries/new/es/tivify/RED_BULL_TV.png
 Pirineus TV,ES: PIRINEUS TV,https://docdog.top/logo/countries/new/es/tivify/PIRINEUS_TV.png
 NHK WORLD,NHKWL,https://docdog.top/logo/countries/new/es/tivify/NHK_WORLD.png
 Canal Blau,ES: CANAL MALAGA,https://docdog.top/logo/countries/new/es/tivify/CANAL_MALAGA.png
@@ -560,7 +546,6 @@ Toon Goggles,ES: TOON GOGGLES,https://docdog.top/logo/countries/new/es/tivify/TO
 Qwest TV,ES: NESTING TV,https://docdog.top/logo/countries/new/es/tivify/NESTING_TV.png
 Sundance TV,ES: AFORTUNADAS TV,https://docdog.top/logo/countries/new/es/tivify/AFORTUNADAS_TV.png
 Información TV,ES: FASHION TV,https://docdog.top/logo/countries/new/es/tivify/FASHION_TV.png
-Pelis Top (Rakuten TV),ES: PARTY TYME KARAOKE INT.,https://docdog.top/logo/countries/new/es/tivify/PARTY_TYME_KARAOKE_INT.png
 Bon Dia TV,ES: ONDA15 TV,https://docdog.top/logo/countries/new/es/tivify/ONDA15_TV.png
 Canal de las Estrellas,ES: DURANGALDEKO TELEBISTA,https://docdog.top/logo/countries/new/es/tivify/DURANGALDEKO_TELEBISTA.png
 NatureTime,ES: NATURE TIME,https://docdog.top/logo/countries/new/es/tivify/NATURE_TIME.png
@@ -1012,3 +997,17 @@ DE | Sky Sport Mix,XXX:  XY MIX HD,https://docdog.top/logo/countries/xxx/adult.p
 La 7 Valladolid,XXX:  MEIDEN VAN HOLLAND HARD,https://docdog.top/logo/countries/xxx/adult.png
 Levante TV,XXX:  CENTO X CENTO TV,https://docdog.top/logo/countries/xxx/adult.png
 SX3 Catalunya,XXX:  TINY 4K UHD,https://docdog.top/logo/countries/xxx/adult.png
+
+# --- RAKUTEN TV corregido v3: fuente DobleM exacta o fallback más parecido ---
+Pelis Top (Rakuten TV),ES: RAKUTENTV PELIS TOP,https://docdog.top/logo/countries/new/es/RAKUTENTV_PELIS_TOP.png
+Películas de Acción (Rakuten TV),ES: RAKUTENTV ACCION,https://docdog.top/logo/countries/new/es/RAKUTENTV_ACCION.png
+Comedia (Rakuten TV),ES: RAKUTENTV COMEDIA,https://docdog.top/logo/countries/new/es/RAKUTENTV_COMEDIA.png
+Películas de Drama (Rakuten TV),ES: RAKUTENTV DRAMA,https://docdog.top/logo/countries/new/es/RAKUTENTV_DRAMA.png
+Películas Románticas (Rakuten TV),ES: RAKUTENTV PELICULAS ROMANTICAS,https://docdog.top/logo/countries/new/es/RAKUTENTV_PELICULAS_ROMANTICAS.png
+Cine Español (Rakuten TV),ES: RAKUTENTV CINE ESPANOL,https://docdog.top/logo/countries/new/es/RAKUTENTV_CINE_ESPANOL.png
+Thrillers (Rakuten TV),ES: RAKUTENTV THRILLERS,https://docdog.top/logo/countries/new/es/RAKUTENTV_THRILLERS.png
+Cine Friki,ES: RAKUTENTV CINE FRIKI,https://docdog.top/logo/countries/new/es/RAKUTENTV_CINE_FRIKI.png
+DARK,ES: RAKUTENTV DARK MATTER,https://docdog.top/logo/countries/new/es/RAKUTENTV_DARK_MATTER.png
+Pelis Top (Rakuten TV),ES: RAKUTENTV GRJNGO,https://docdog.top/logo/countries/new/es/RAKUTENTV_GRJNGO.png
+Crimen (Rakuten TV),ES: RAKUTENTV CRIMEN,https://docdog.top/logo/countries/new/es/RAKUTENTV_CRIMEN.png
+Sci-Fi (Rakuten TV),ES: RAKUTENTV FILMRISE SCI-FI,https://docdog.top/logo/countries/new/es/RAKUTENTV_FILMRISE_SCI-FI.png
